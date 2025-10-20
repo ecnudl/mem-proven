@@ -1,0 +1,22 @@
+model:
+  path: /mnt/ssd2/models/Qwen2.5-7B-Instruct   # 你也可以换成本地路径，比如 
+  dtype: bfloat16
+  fattn: false                       # 先关掉 flash-attn，跑通为先
+rope:
+  base: 100000
+  distance_scale: 1.5
+
+memory:
+  L1:
+    n_local: 4096
+  L2:
+    block_size: 1536
+    repr_topk: 4
+    topk: 8
+    faiss: true
+    max_cached_block: 32
+    cache_strategy: LRU-S
+
+runtime:
+  max_new_tokens: 512
+  temperature: 0.7

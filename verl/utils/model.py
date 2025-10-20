@@ -95,6 +95,32 @@ def create_huggingface_actor(model_name: str, override_config_kwargs=None, autom
     assert isinstance(override_config_kwargs, Dict), f"override_config_kwargs must be a dict, got {type(override_config_kwargs)}"
     module_config = get_huggingface_actor_config(model_name, override_config_kwargs, trust_remote_code=automodel_kwargs.get("trust_remote_code", False))
     module: nn.Module = AutoModelForCausalLM.from_config(module_config, **automodel_kwargs)
+    from third_party.inf_llm.utils import patch_hf
+
+    attn_args = dict(
+        n_local=4096,
+        n_init=512,
+        topk=4,
+        block_size=128,
+        max_cached_block=64,
+        exc_block_size=64,
+        fattn=False,
+        repr_topk=1,
+        cache_strategy="lru",
+        score_decay=None,
+        chunk_topk_calc=None,
+        async_global_stream=True,
+        pin_memory=False,
+        faiss=False,
+        perhead=False,
+    )
+    module = patch_hf(
+        module,
+        attn_type="inf-llm",
+        attn_kwargs=attn_args,
+        base=None,              # 若想维持默认 rope，可保持 None
+        distance_scale=1.0,
+    )
     return module
 
 

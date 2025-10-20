@@ -20,10 +20,9 @@ from codetiming import Timer
 
 from verl import DataProto
 
+from .generation_with_kv import generate_with_kv
 from .interface import RAgent, RConfig
-from .utils import (chat_template, create_attention_mask, create_position_ids,
-                    graceful_padding, indexing_proto,
-                    pad_tensor_list_to_length)
+from .utils import chat_template, graceful_padding, indexing_proto
 
 logger = logging.getLogger(__file__)
 logger.setLevel('INFO')
@@ -54,6 +53,8 @@ class LLMGenerationManager:
         self.agent = agent_cls(tokenizer, config)
         self.chat_template = chat_template(tokenizer)
         self.PADDING_WORD_TOKENS = tokenizer.encode(self.chat_template.format(message="Hello."), add_special_tokens=False)
+        self._rollout_model = None
+        self._use_remote_kv = False
 
 
     from functools import lru_cache
@@ -74,6 +75,27 @@ class LLMGenerationManager:
         padding_attention_masks[-len(padding_word_ids):] = 1
         padding_position_ids[-len(padding_word_ids):] = torch.arange(0, len(padding_word_ids))
         return padding_token_ids, padding_attention_masks, padding_position_ids
+
+    def _get_rollout_model(self):
+        if self._rollout_model is not None:
+            return self._rollout_model
+
+        candidate_attrs = ("module", "model")
+        for attr in candidate_attrs:
+            model = getattr(self.actor_rollout_wg, attr, None)
+            if model is not None:
+                self._rollout_model = model
+                self._use_remote_kv = False
+                return model
+
+        remote_generate = getattr(self.actor_rollout_wg, "generate_with_kv", None)
+        if callable(remote_generate):
+            self._use_remote_kv = True
+            return None
+
+        raise AttributeError(
+            "actor_rollout_wg 必须提供可访问的模型(module/model)以便单步 KV 推理。"
+        )
     
     def generate_with_graceful_padding(self, input_ids: torch.Tensor,
                                     attention_masks: torch.Tensor,
@@ -126,25 +148,39 @@ class LLMGenerationManager:
         active_num_list = [] # trace the active number of sample in each turn
         gen_output_list = [] # store I/O batch in each turn, used for policy optimization
         meta_info = gen_batch.meta_info #  do_sample, is_validate, eos/pad are stored in here.
-        pad_token_id = self.tokenizer.pad_token_id
+        model = self._get_rollout_model()
         self.agent.start(gen_batch, timing_raw)
         # Main generation loop, agent should indicate whether to stop
         while not self.agent.done():
             with _timer('mt_prepare', timing_raw):
                 messages, meta_info_gen = self.agent.action()
                 meta_info_gen.update(meta_info)
-                # [len(x) for x in messages] == [len(x[x!=pad_token_id]) for x in input_ids]
-                # torch.all(attention_masks.sum(-1) == torch.tensor([len(x[x!=pad_token_id]) for x in input_ids]))
-                input_ids = pad_tensor_list_to_length(messages, 
-                                                pad_token_id=pad_token_id,
-                                                max_length=meta_info_gen['input_pad_to'], 
-                                                left_pad=True)
-                attention_masks = create_attention_mask(input_ids, pad_token_id=pad_token_id)
-                position_ids = create_position_ids(attention_masks)
                 active_num_list.append(len(messages))
-                logger.info(f'padding done')
             with _timer('mt_gen', timing_raw):
-                gen_output = self.generate_with_graceful_padding(input_ids, attention_masks, position_ids, meta_info_gen)
+                if self._use_remote_kv:
+                    result, kv_cache_out = self.actor_rollout_wg.generate_with_kv(
+                        tokenizer=self.tokenizer,
+                        messages=messages,
+                        meta_info=meta_info_gen,
+                        generation_kwargs=meta_info_gen.get("generation_kwargs", {}),
+                    )
+                else:
+                    result, kv_cache_out = generate_with_kv(
+                        model=model,
+                        tokenizer=self.tokenizer,
+                        messages=messages,
+                        meta_info=meta_info_gen,
+                        generation_kwargs=meta_info_gen.get("generation_kwargs", {}),
+                    )
+                kv_cache_out_meta = list(kv_cache_out) if kv_cache_out is not None else []
+                meta_for_agent = {"kv_cache_out": kv_cache_out_meta}
+                gen_output = DataProto.from_dict(
+                    tensors={
+                        "responses": result["next_token"],
+                        "logits": result["logits"],
+                    },
+                    meta_info=meta_for_agent,
+                )
                 logger.info('generation done')
             with _timer('mt_update', timing_raw):
                 gen_output = self.agent.update(gen_output)
