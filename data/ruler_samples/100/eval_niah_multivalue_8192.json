@@ -1,0 +1,1302 @@
+[
+    {
+        "index": 0,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for uplifted-galaxy mentioned in the provided text?",
+        "context": " One of the special magic numbers for uplifted-galaxy is: 8282454. Essay One. One of the special magic numbers for uplifted-galaxy is: 7609139.  One of the special magic numbers for uplifted-galaxy is: 7247410. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for uplifted-galaxy is: 8254280. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8254280",
+            "7247410",
+            "8282454",
+            "7609139"
+        ],
+        "answer_prefix": " The special magic numbers for uplifted-galaxy mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 1,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-bridge mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for gentle-bridge is: 9597154. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for gentle-bridge is: 9321117. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for gentle-bridge is: 3694682. Essay Four. One of the special magic numbers for gentle-bridge is: 2606302. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2606302",
+            "3694682",
+            "9597154",
+            "9321117"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-bridge mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 2,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-quartz mentioned in the provided text?",
+        "context": " One of the special magic numbers for whirling-quartz is: 2065883. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for whirling-quartz is: 1820737.  One of the special magic numbers for whirling-quartz is: 7323755. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for whirling-quartz is: 4050763. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4050763",
+            "7323755",
+            "2065883",
+            "1820737"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-quartz mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 3,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-valley mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for keen-valley is: 2728736. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-valley is: 2024068. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for keen-valley is: 9761946. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for keen-valley is: 2292599. ",
+        "outputs": [
+            "2292599",
+            "9761946",
+            "2728736",
+            "2024068"
+        ],
+        "answer_prefix": " The special magic numbers for keen-valley mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 4,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for uplifted-valley mentioned in the provided text?",
+        "context": " One of the special magic numbers for uplifted-valley is: 3119600. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for uplifted-valley is: 2344719. Essay Two. One of the special magic numbers for uplifted-valley is: 3798746. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for uplifted-valley is: 8361662. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8361662",
+            "3798746",
+            "3119600",
+            "2344719"
+        ],
+        "answer_prefix": " The special magic numbers for uplifted-valley mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 5,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-island mentioned in the provided text?",
+        "context": " One of the special magic numbers for hazy-island is: 5982935. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for hazy-island is: 9303515. Essay Three. One of the special magic numbers for hazy-island is: 2900889.  One of the special magic numbers for hazy-island is: 2180295. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2180295",
+            "2900889",
+            "5982935",
+            "9303515"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-island mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 6,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for youthful-satellite mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for youthful-satellite is: 3133335. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for youthful-satellite is: 2446662. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for youthful-satellite is: 7008275. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for youthful-satellite is: 2403382. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2403382",
+            "7008275",
+            "3133335",
+            "2446662"
+        ],
+        "answer_prefix": " The special magic numbers for youthful-satellite mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 7,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for radiant-lantern mentioned in the provided text?",
+        "context": " One of the special magic numbers for radiant-lantern is: 1042269. Essay One. One of the special magic numbers for radiant-lantern is: 2774292.  One of the special magic numbers for radiant-lantern is: 3458992. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for radiant-lantern is: 1637098. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1637098",
+            "3458992",
+            "1042269",
+            "2774292"
+        ],
+        "answer_prefix": " The special magic numbers for radiant-lantern mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 8,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for uplifted-zephyr mentioned in the provided text?",
+        "context": " One of the special magic numbers for uplifted-zephyr is: 8654344. Essay One. One of the special magic numbers for uplifted-zephyr is: 6704445. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for uplifted-zephyr is: 5345064. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for uplifted-zephyr is: 9356921. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9356921",
+            "5345064",
+            "8654344",
+            "6704445"
+        ],
+        "answer_prefix": " The special magic numbers for uplifted-zephyr mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 9,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-quartz mentioned in the provided text?",
+        "context": " One of the special magic numbers for hazy-quartz is: 7856893. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for hazy-quartz is: 6492019. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for hazy-quartz is: 5367457.  One of the special magic numbers for hazy-quartz is: 7768976. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7768976",
+            "5367457",
+            "7856893",
+            "6492019"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-quartz mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 10,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-keyboard mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for hazy-keyboard is: 6031740.  One of the special magic numbers for hazy-keyboard is: 4723455. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for hazy-keyboard is: 4916229.  One of the special magic numbers for hazy-keyboard is: 1857272. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1857272",
+            "4916229",
+            "6031740",
+            "4723455"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-keyboard mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 11,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for ivory-whistle mentioned in the provided text?",
+        "context": " One of the special magic numbers for ivory-whistle is: 9412224. Essay One. One of the special magic numbers for ivory-whistle is: 2027115. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for ivory-whistle is: 8689294. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for ivory-whistle is: 2018248. ",
+        "outputs": [
+            "2018248",
+            "8689294",
+            "9412224",
+            "2027115"
+        ],
+        "answer_prefix": " The special magic numbers for ivory-whistle mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 12,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-umbrella mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for whirling-umbrella is: 4684602. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for whirling-umbrella is: 3180090. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for whirling-umbrella is: 5420669. Essay Three. One of the special magic numbers for whirling-umbrella is: 6797451. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6797451",
+            "5420669",
+            "4684602",
+            "3180090"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-umbrella mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 13,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-harbor mentioned in the provided text?",
+        "context": " One of the special magic numbers for emerald-harbor is: 7970851. Essay One. One of the special magic numbers for emerald-harbor is: 4372466. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for emerald-harbor is: 3089050. Essay Three. One of the special magic numbers for emerald-harbor is: 4683173. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4683173",
+            "3089050",
+            "7970851",
+            "4372466"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-harbor mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 14,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for opulent-valley mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for opulent-valley is: 6244732. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for opulent-valley is: 5381177. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for opulent-valley is: 6509327. Essay Four. One of the special magic numbers for opulent-valley is: 2952774. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2952774",
+            "6509327",
+            "6244732",
+            "5381177"
+        ],
+        "answer_prefix": " The special magic numbers for opulent-valley mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 15,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-whistle mentioned in the provided text?",
+        "context": " One of the special magic numbers for hazy-whistle is: 2522322. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for hazy-whistle is: 5500219. Essay Two. One of the special magic numbers for hazy-whistle is: 1735673. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for hazy-whistle is: 4967788. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4967788",
+            "1735673",
+            "2522322",
+            "5500219"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-whistle mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 16,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for mellow-planet mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for mellow-planet is: 4481263. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for mellow-planet is: 8970031. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for mellow-planet is: 1167625. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for mellow-planet is: 4746161. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4746161",
+            "1167625",
+            "4481263",
+            "8970031"
+        ],
+        "answer_prefix": " The special magic numbers for mellow-planet mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 17,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for spry-yacht mentioned in the provided text?",
+        "context": " One of the special magic numbers for spry-yacht is: 9167705. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for spry-yacht is: 8176855. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for spry-yacht is: 6167733. Essay Four. One of the special magic numbers for spry-yacht is: 8450029. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8450029",
+            "6167733",
+            "9167705",
+            "8176855"
+        ],
+        "answer_prefix": " The special magic numbers for spry-yacht mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 18,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for zealous-engine mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for zealous-engine is: 2814761. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for zealous-engine is: 2479873. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for zealous-engine is: 1416401. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for zealous-engine is: 3584710. ",
+        "outputs": [
+            "3584710",
+            "1416401",
+            "2814761",
+            "2479873"
+        ],
+        "answer_prefix": " The special magic numbers for zealous-engine mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 19,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-clock mentioned in the provided text?",
+        "context": " One of the special magic numbers for keen-clock is: 8752090. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-clock is: 8032268.  One of the special magic numbers for keen-clock is: 9154173. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for keen-clock is: 3849973. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3849973",
+            "9154173",
+            "8752090",
+            "8032268"
+        ],
+        "answer_prefix": " The special magic numbers for keen-clock mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 20,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-nebula mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for keen-nebula is: 2920350. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-nebula is: 6391554. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for keen-nebula is: 3337817.  One of the special magic numbers for keen-nebula is: 9366763. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9366763",
+            "3337817",
+            "2920350",
+            "6391554"
+        ],
+        "answer_prefix": " The special magic numbers for keen-nebula mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 21,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for radiant-quartz mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for radiant-quartz is: 4535793. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for radiant-quartz is: 4969981. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for radiant-quartz is: 6194819. Essay Three. One of the special magic numbers for radiant-quartz is: 6478155. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6478155",
+            "6194819",
+            "4535793",
+            "4969981"
+        ],
+        "answer_prefix": " The special magic numbers for radiant-quartz mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 22,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for joyful-lantern mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for joyful-lantern is: 1815966. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for joyful-lantern is: 4045366.  One of the special magic numbers for joyful-lantern is: 9844131. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for joyful-lantern is: 5926531. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5926531",
+            "9844131",
+            "1815966",
+            "4045366"
+        ],
+        "answer_prefix": " The special magic numbers for joyful-lantern mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 23,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-apple mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for hazy-apple is: 5377912. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for hazy-apple is: 9385413. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for hazy-apple is: 4183578. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for hazy-apple is: 9515350. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9515350",
+            "4183578",
+            "5377912",
+            "9385413"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-apple mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 24,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for uplifted-harbor mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for uplifted-harbor is: 2734998. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for uplifted-harbor is: 8308777. Essay Two. One of the special magic numbers for uplifted-harbor is: 3243494. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for uplifted-harbor is: 7083993. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7083993",
+            "3243494",
+            "2734998",
+            "8308777"
+        ],
+        "answer_prefix": " The special magic numbers for uplifted-harbor mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 25,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-mountain mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for whirling-mountain is: 1860390.  One of the special magic numbers for whirling-mountain is: 7309029. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for whirling-mountain is: 7595747.  One of the special magic numbers for whirling-mountain is: 9689642. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9689642",
+            "7595747",
+            "1860390",
+            "7309029"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-mountain mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 26,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-jungle mentioned in the provided text?",
+        "context": " One of the special magic numbers for vivid-jungle is: 9164679. Essay One. One of the special magic numbers for vivid-jungle is: 9078553. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for vivid-jungle is: 1150066. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for vivid-jungle is: 2787735. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2787735",
+            "1150066",
+            "9164679",
+            "9078553"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-jungle mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 27,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for daring-lantern mentioned in the provided text?",
+        "context": " One of the special magic numbers for daring-lantern is: 3472057. Essay One. One of the special magic numbers for daring-lantern is: 4124136. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for daring-lantern is: 9044193. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for daring-lantern is: 8151703. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8151703",
+            "9044193",
+            "3472057",
+            "4124136"
+        ],
+        "answer_prefix": " The special magic numbers for daring-lantern mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 28,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-river mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for brisk-river is: 4106814. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for brisk-river is: 1377096. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for brisk-river is: 6393389. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for brisk-river is: 2486061. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2486061",
+            "6393389",
+            "4106814",
+            "1377096"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-river mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 29,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for spry-harbor mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for spry-harbor is: 2398664. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for spry-harbor is: 4674744.  One of the special magic numbers for spry-harbor is: 1192442. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for spry-harbor is: 1990398. ",
+        "outputs": [
+            "1990398",
+            "1192442",
+            "2398664",
+            "4674744"
+        ],
+        "answer_prefix": " The special magic numbers for spry-harbor mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 30,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-river mentioned in the provided text?",
+        "context": " One of the special magic numbers for brisk-river is: 2861135.  One of the special magic numbers for brisk-river is: 2668371. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for brisk-river is: 1659950. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for brisk-river is: 7660588. ",
+        "outputs": [
+            "7660588",
+            "1659950",
+            "2861135",
+            "2668371"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-river mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 31,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-forest mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-forest is: 4125350. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for keen-forest is: 3822686. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for keen-forest is: 7674672. Essay Four. One of the special magic numbers for keen-forest is: 5667638. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5667638",
+            "7674672",
+            "4125350",
+            "3822686"
+        ],
+        "answer_prefix": " The special magic numbers for keen-forest mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 32,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for mellow-yacht mentioned in the provided text?",
+        "context": " One of the special magic numbers for mellow-yacht is: 4422048. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for mellow-yacht is: 8423006. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for mellow-yacht is: 7252870.  One of the special magic numbers for mellow-yacht is: 8709401. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8709401",
+            "7252870",
+            "4422048",
+            "8423006"
+        ],
+        "answer_prefix": " The special magic numbers for mellow-yacht mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 33,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for radiant-island mentioned in the provided text?",
+        "context": " One of the special magic numbers for radiant-island is: 2884514. Essay One. One of the special magic numbers for radiant-island is: 2266795. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for radiant-island is: 3995483.  One of the special magic numbers for radiant-island is: 1546179. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1546179",
+            "3995483",
+            "2884514",
+            "2266795"
+        ],
+        "answer_prefix": " The special magic numbers for radiant-island mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 34,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for amber-umbrella mentioned in the provided text?",
+        "context": " One of the special magic numbers for amber-umbrella is: 9798083. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for amber-umbrella is: 7618648.  One of the special magic numbers for amber-umbrella is: 9433881. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for amber-umbrella is: 5218195. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5218195",
+            "9433881",
+            "9798083",
+            "7618648"
+        ],
+        "answer_prefix": " The special magic numbers for amber-umbrella mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 35,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for opulent-keyboard mentioned in the provided text?",
+        "context": " One of the special magic numbers for opulent-keyboard is: 2443587.  One of the special magic numbers for opulent-keyboard is: 3169996. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for opulent-keyboard is: 7567001. Essay Four. One of the special magic numbers for opulent-keyboard is: 2717157. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2717157",
+            "7567001",
+            "2443587",
+            "3169996"
+        ],
+        "answer_prefix": " The special magic numbers for opulent-keyboard mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 36,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for radiant-apple mentioned in the provided text?",
+        "context": " One of the special magic numbers for radiant-apple is: 4395934. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for radiant-apple is: 2725783. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for radiant-apple is: 2075841. Essay Four. One of the special magic numbers for radiant-apple is: 1638041. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1638041",
+            "2075841",
+            "4395934",
+            "2725783"
+        ],
+        "answer_prefix": " The special magic numbers for radiant-apple mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 37,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-umbrella mentioned in the provided text?",
+        "context": " One of the special magic numbers for whirling-umbrella is: 5747126. Essay One. One of the special magic numbers for whirling-umbrella is: 8139367. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for whirling-umbrella is: 7278518. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for whirling-umbrella is: 6382087. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6382087",
+            "7278518",
+            "5747126",
+            "8139367"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-umbrella mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 38,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for zealous-dolphin mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for zealous-dolphin is: 1334145.  One of the special magic numbers for zealous-dolphin is: 8167404. Essay Two. One of the special magic numbers for zealous-dolphin is: 1988151. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for zealous-dolphin is: 1174287. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1174287",
+            "1988151",
+            "1334145",
+            "8167404"
+        ],
+        "answer_prefix": " The special magic numbers for zealous-dolphin mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 39,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for opulent-apple mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for opulent-apple is: 1543491. Essay Two. One of the special magic numbers for opulent-apple is: 3096301.  One of the special magic numbers for opulent-apple is: 6150317. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for opulent-apple is: 8559257. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8559257",
+            "6150317",
+            "1543491",
+            "3096301"
+        ],
+        "answer_prefix": " The special magic numbers for opulent-apple mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 40,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for nimble-xylophone mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for nimble-xylophone is: 3078119. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for nimble-xylophone is: 7985755. Essay Three. One of the special magic numbers for nimble-xylophone is: 4630680. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for nimble-xylophone is: 1737710. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1737710",
+            "4630680",
+            "3078119",
+            "7985755"
+        ],
+        "answer_prefix": " The special magic numbers for nimble-xylophone mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 41,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-island mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for emerald-island is: 9442962. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for emerald-island is: 4134054.  One of the special magic numbers for emerald-island is: 6994668.  One of the special magic numbers for emerald-island is: 9317593. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9317593",
+            "6994668",
+            "9442962",
+            "4134054"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-island mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 42,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for ivory-turbine mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for ivory-turbine is: 9294690. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for ivory-turbine is: 7828238.  One of the special magic numbers for ivory-turbine is: 5336549. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for ivory-turbine is: 5471278. ",
+        "outputs": [
+            "5471278",
+            "5336549",
+            "9294690",
+            "7828238"
+        ],
+        "answer_prefix": " The special magic numbers for ivory-turbine mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 43,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-turbine mentioned in the provided text?",
+        "context": " One of the special magic numbers for vivid-turbine is: 7485467.  One of the special magic numbers for vivid-turbine is: 7755193.  One of the special magic numbers for vivid-turbine is: 5322927. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for vivid-turbine is: 9082541. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9082541",
+            "5322927",
+            "7485467",
+            "7755193"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-turbine mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 44,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-mountain mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for hazy-mountain is: 3602512.  One of the special magic numbers for hazy-mountain is: 9684906. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for hazy-mountain is: 6368813. Essay Four. One of the special magic numbers for hazy-mountain is: 6868837. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6868837",
+            "6368813",
+            "3602512",
+            "9684906"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-mountain mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 45,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-quartz mentioned in the provided text?",
+        "context": " One of the special magic numbers for keen-quartz is: 6087848. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for keen-quartz is: 1151993. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for keen-quartz is: 6253319. Essay Four. One of the special magic numbers for keen-quartz is: 5191452. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5191452",
+            "6253319",
+            "6087848",
+            "1151993"
+        ],
+        "answer_prefix": " The special magic numbers for keen-quartz mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 46,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for festive-dolphin mentioned in the provided text?",
+        "context": " One of the special magic numbers for festive-dolphin is: 6641830. Essay One. One of the special magic numbers for festive-dolphin is: 5291515. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for festive-dolphin is: 8590860. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for festive-dolphin is: 3014316. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3014316",
+            "8590860",
+            "6641830",
+            "5291515"
+        ],
+        "answer_prefix": " The special magic numbers for festive-dolphin mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 47,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-jungle mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for keen-jungle is: 9417804. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for keen-jungle is: 1772721. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-jungle is: 8402043. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for keen-jungle is: 3889030. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3889030",
+            "8402043",
+            "9417804",
+            "1772721"
+        ],
+        "answer_prefix": " The special magic numbers for keen-jungle mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 48,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for uplifted-turbine mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for uplifted-turbine is: 7228388. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for uplifted-turbine is: 8508405. Essay Three. One of the special magic numbers for uplifted-turbine is: 2157721. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for uplifted-turbine is: 7030168. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7030168",
+            "2157721",
+            "7228388",
+            "8508405"
+        ],
+        "answer_prefix": " The special magic numbers for uplifted-turbine mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 49,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-island mentioned in the provided text?",
+        "context": " One of the special magic numbers for emerald-island is: 9150014. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for emerald-island is: 7972793. Essay Two. One of the special magic numbers for emerald-island is: 3140852. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for emerald-island is: 3584148. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3584148",
+            "3140852",
+            "9150014",
+            "7972793"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-island mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 0,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-galaxy mentioned in the provided text?",
+        "context": " One of the special magic numbers for brisk-galaxy is: 4668136. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for brisk-galaxy is: 2571945. Essay Four. One of the special magic numbers for brisk-galaxy is: 4903402.  One of the special magic numbers for brisk-galaxy is: 1499914. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1499914",
+            "2571945",
+            "4668136",
+            "4903402"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-galaxy mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 1,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-mountain mentioned in the provided text?",
+        "context": " One of the special magic numbers for vivid-mountain is: 8536477. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for vivid-mountain is: 4698379. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for vivid-mountain is: 5667265. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for vivid-mountain is: 8038374. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8038374",
+            "4698379",
+            "8536477",
+            "5667265"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-mountain mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 2,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-dolphin mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for gentle-dolphin is: 2714803. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for gentle-dolphin is: 6647119.  One of the special magic numbers for gentle-dolphin is: 2556017. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for gentle-dolphin is: 4612365. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4612365",
+            "6647119",
+            "2714803",
+            "2556017"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-dolphin mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 3,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-satellite mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for brisk-satellite is: 3094235. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for brisk-satellite is: 9996414. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for brisk-satellite is: 7350753. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for brisk-satellite is: 8707870. ",
+        "outputs": [
+            "8707870",
+            "9996414",
+            "3094235",
+            "7350753"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-satellite mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 4,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-turbine mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for whirling-turbine is: 1768805.  One of the special magic numbers for whirling-turbine is: 2166941. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for whirling-turbine is: 4823498. Essay Two. One of the special magic numbers for whirling-turbine is: 4226067. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4226067",
+            "2166941",
+            "1768805",
+            "4823498"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-turbine mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 5,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-yacht mentioned in the provided text?",
+        "context": " One of the special magic numbers for keen-yacht is: 3728882. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for keen-yacht is: 7120868. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for keen-yacht is: 7210606. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for keen-yacht is: 8606962. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8606962",
+            "7120868",
+            "3728882",
+            "7210606"
+        ],
+        "answer_prefix": " The special magic numbers for keen-yacht mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 6,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-apple mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for vivid-apple is: 8755439.  One of the special magic numbers for vivid-apple is: 3741438. Essay Two. One of the special magic numbers for vivid-apple is: 7366205. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for vivid-apple is: 5107245. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5107245",
+            "3741438",
+            "8755439",
+            "7366205"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-apple mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 7,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for joyful-apple mentioned in the provided text?",
+        "context": " One of the special magic numbers for joyful-apple is: 7730428. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for joyful-apple is: 6292423. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for joyful-apple is: 5491946. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for joyful-apple is: 1538552. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1538552",
+            "6292423",
+            "7730428",
+            "5491946"
+        ],
+        "answer_prefix": " The special magic numbers for joyful-apple mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 8,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for tranquil-river mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for tranquil-river is: 3396987. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for tranquil-river is: 8698256. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for tranquil-river is: 5443951. Essay Four. One of the special magic numbers for tranquil-river is: 7637601. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7637601",
+            "8698256",
+            "3396987",
+            "5443951"
+        ],
+        "answer_prefix": " The special magic numbers for tranquil-river mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 9,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for youthful-apple mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for youthful-apple is: 7073292.  One of the special magic numbers for youthful-apple is: 7700828. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for youthful-apple is: 4679591.  One of the special magic numbers for youthful-apple is: 8187926. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8187926",
+            "7700828",
+            "7073292",
+            "4679591"
+        ],
+        "answer_prefix": " The special magic numbers for youthful-apple mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 10,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-island mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for emerald-island is: 8082668. Essay Three. One of the special magic numbers for emerald-island is: 3684052. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for emerald-island is: 2065818. Essay Four. One of the special magic numbers for emerald-island is: 3564251. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3564251",
+            "3684052",
+            "8082668",
+            "2065818"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-island mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 11,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-umbrella mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for vivid-umbrella is: 5476583. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for vivid-umbrella is: 2921859. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for vivid-umbrella is: 6707197. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for vivid-umbrella is: 1192619. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1192619",
+            "2921859",
+            "5476583",
+            "6707197"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-umbrella mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 12,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for amber-dolphin mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for amber-dolphin is: 3997281. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for amber-dolphin is: 9398441. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for amber-dolphin is: 9517485. Essay Four. One of the special magic numbers for amber-dolphin is: 5418934. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "5418934",
+            "9398441",
+            "3997281",
+            "9517485"
+        ],
+        "answer_prefix": " The special magic numbers for amber-dolphin mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 13,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-apple mentioned in the provided text?",
+        "context": " One of the special magic numbers for gentle-apple is: 9897858. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for gentle-apple is: 3710343. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for gentle-apple is: 1009594. Essay Four. One of the special magic numbers for gentle-apple is: 7273233. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7273233",
+            "3710343",
+            "9897858",
+            "1009594"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-apple mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 14,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for opulent-harbor mentioned in the provided text?",
+        "context": " One of the special magic numbers for opulent-harbor is: 1971823. Essay One. One of the special magic numbers for opulent-harbor is: 5017343. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for opulent-harbor is: 5041154. Essay Four. One of the special magic numbers for opulent-harbor is: 6159230. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6159230",
+            "5017343",
+            "1971823",
+            "5041154"
+        ],
+        "answer_prefix": " The special magic numbers for opulent-harbor mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 15,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for festive-bridge mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for festive-bridge is: 5446912. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for festive-bridge is: 3770370. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for festive-bridge is: 9852897. Essay Four. One of the special magic numbers for festive-bridge is: 8973915. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8973915",
+            "3770370",
+            "5446912",
+            "9852897"
+        ],
+        "answer_prefix": " The special magic numbers for festive-bridge mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 16,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for mellow-harbor mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for mellow-harbor is: 8350099. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for mellow-harbor is: 7264956.  One of the special magic numbers for mellow-harbor is: 9683481. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for mellow-harbor is: 7693979. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "7693979",
+            "7264956",
+            "8350099",
+            "9683481"
+        ],
+        "answer_prefix": " The special magic numbers for mellow-harbor mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 17,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for nimble-island mentioned in the provided text?",
+        "context": " One of the special magic numbers for nimble-island is: 4694634.  One of the special magic numbers for nimble-island is: 4860684.  One of the special magic numbers for nimble-island is: 1120642. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for nimble-island is: 1352896. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1352896",
+            "4860684",
+            "4694634",
+            "1120642"
+        ],
+        "answer_prefix": " The special magic numbers for nimble-island mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 18,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for cerulean-umbrella mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for cerulean-umbrella is: 5672073. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for cerulean-umbrella is: 4993055. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for cerulean-umbrella is: 9143903. Essay Four. One of the special magic numbers for cerulean-umbrella is: 9626108. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9626108",
+            "4993055",
+            "5672073",
+            "9143903"
+        ],
+        "answer_prefix": " The special magic numbers for cerulean-umbrella mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 19,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for joyful-ocean mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for joyful-ocean is: 4194548. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for joyful-ocean is: 7829332. Essay Three. One of the special magic numbers for joyful-ocean is: 2582524.  One of the special magic numbers for joyful-ocean is: 8935169. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8935169",
+            "7829332",
+            "4194548",
+            "2582524"
+        ],
+        "answer_prefix": " The special magic numbers for joyful-ocean mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 20,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for cerulean-dolphin mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for cerulean-dolphin is: 7754864. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for cerulean-dolphin is: 2016911. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for cerulean-dolphin is: 6692553. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for cerulean-dolphin is: 2651177. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2651177",
+            "2016911",
+            "7754864",
+            "6692553"
+        ],
+        "answer_prefix": " The special magic numbers for cerulean-dolphin mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 21,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for festive-nebula mentioned in the provided text?",
+        "context": " One of the special magic numbers for festive-nebula is: 5673212. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for festive-nebula is: 4078418. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for festive-nebula is: 8761611. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for festive-nebula is: 8077999. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8077999",
+            "4078418",
+            "5673212",
+            "8761611"
+        ],
+        "answer_prefix": " The special magic numbers for festive-nebula mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 22,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-zephyr mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for brisk-zephyr is: 4965789. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for brisk-zephyr is: 2564689.  One of the special magic numbers for brisk-zephyr is: 3790237. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for brisk-zephyr is: 1247595. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1247595",
+            "2564689",
+            "4965789",
+            "3790237"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-zephyr mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 23,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for cerulean-island mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for cerulean-island is: 1036161. Essay Two. One of the special magic numbers for cerulean-island is: 7358113. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for cerulean-island is: 7550190.  One of the special magic numbers for cerulean-island is: 3762152. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3762152",
+            "7358113",
+            "1036161",
+            "7550190"
+        ],
+        "answer_prefix": " The special magic numbers for cerulean-island mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 24,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-clock mentioned in the provided text?",
+        "context": " One of the special magic numbers for gentle-clock is: 4652414. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for gentle-clock is: 5977931. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for gentle-clock is: 1981186. Essay Four. One of the special magic numbers for gentle-clock is: 4185957. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4185957",
+            "5977931",
+            "4652414",
+            "1981186"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-clock mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 25,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for brisk-zephyr mentioned in the provided text?",
+        "context": " One of the special magic numbers for brisk-zephyr is: 9910817. Essay One. One of the special magic numbers for brisk-zephyr is: 9436429. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for brisk-zephyr is: 3641282. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for brisk-zephyr is: 8999183. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8999183",
+            "9436429",
+            "9910817",
+            "3641282"
+        ],
+        "answer_prefix": " The special magic numbers for brisk-zephyr mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 26,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for youthful-lantern mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for youthful-lantern is: 7774229. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for youthful-lantern is: 4946066.  One of the special magic numbers for youthful-lantern is: 3011363.  One of the special magic numbers for youthful-lantern is: 2140194. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2140194",
+            "4946066",
+            "7774229",
+            "3011363"
+        ],
+        "answer_prefix": " The special magic numbers for youthful-lantern mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 27,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for zealous-keyboard mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for zealous-keyboard is: 9770838. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for zealous-keyboard is: 8033426.  One of the special magic numbers for zealous-keyboard is: 6307805. Essay Two. One of the special magic numbers for zealous-keyboard is: 2375453. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2375453",
+            "8033426",
+            "9770838",
+            "6307805"
+        ],
+        "answer_prefix": " The special magic numbers for zealous-keyboard mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 28,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for pristine-planet mentioned in the provided text?",
+        "context": " One of the special magic numbers for pristine-planet is: 8670955.  One of the special magic numbers for pristine-planet is: 6033115. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for pristine-planet is: 6304573. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for pristine-planet is: 3195773. ",
+        "outputs": [
+            "3195773",
+            "6033115",
+            "8670955",
+            "6304573"
+        ],
+        "answer_prefix": " The special magic numbers for pristine-planet mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 29,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for cerulean-xylophone mentioned in the provided text?",
+        "context": " One of the special magic numbers for cerulean-xylophone is: 5449324. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for cerulean-xylophone is: 9487336. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for cerulean-xylophone is: 3222252.  One of the special magic numbers for cerulean-xylophone is: 4576135. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4576135",
+            "9487336",
+            "5449324",
+            "3222252"
+        ],
+        "answer_prefix": " The special magic numbers for cerulean-xylophone mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 30,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-forest mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for gentle-forest is: 9874152.  One of the special magic numbers for gentle-forest is: 6075395. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for gentle-forest is: 1131249. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for gentle-forest is: 8351517. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8351517",
+            "6075395",
+            "9874152",
+            "1131249"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-forest mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 31,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-ocean mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for emerald-ocean is: 5569244. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for emerald-ocean is: 3607983. Essay Two. One of the special magic numbers for emerald-ocean is: 5727085. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for emerald-ocean is: 2795765. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2795765",
+            "3607983",
+            "5569244",
+            "5727085"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-ocean mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 32,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for joyful-xylophone mentioned in the provided text?",
+        "context": " One of the special magic numbers for joyful-xylophone is: 8106422.  One of the special magic numbers for joyful-xylophone is: 2548511. Essay One. One of the special magic numbers for joyful-xylophone is: 5641923. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for joyful-xylophone is: 1852264. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1852264",
+            "2548511",
+            "8106422",
+            "5641923"
+        ],
+        "answer_prefix": " The special magic numbers for joyful-xylophone mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 33,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for gentle-jungle mentioned in the provided text?",
+        "context": " One of the special magic numbers for gentle-jungle is: 1162230.  One of the special magic numbers for gentle-jungle is: 8175395. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for gentle-jungle is: 2876932. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for gentle-jungle is: 8412769. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8412769",
+            "8175395",
+            "1162230",
+            "2876932"
+        ],
+        "answer_prefix": " The special magic numbers for gentle-jungle mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 34,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for whirling-yacht mentioned in the provided text?",
+        "context": " One of the special magic numbers for whirling-yacht is: 3138181. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for whirling-yacht is: 8210624. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for whirling-yacht is: 1701771.  One of the special magic numbers for whirling-yacht is: 3484601. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3484601",
+            "8210624",
+            "3138181",
+            "1701771"
+        ],
+        "answer_prefix": " The special magic numbers for whirling-yacht mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 35,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for joyful-valley mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for joyful-valley is: 7817881.  One of the special magic numbers for joyful-valley is: 6933742. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for joyful-valley is: 3592974. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for joyful-valley is: 2724590. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2724590",
+            "6933742",
+            "7817881",
+            "3592974"
+        ],
+        "answer_prefix": " The special magic numbers for joyful-valley mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 36,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for hazy-bridge mentioned in the provided text?",
+        "context": " One of the special magic numbers for hazy-bridge is: 5163555. Essay One. One of the special magic numbers for hazy-bridge is: 7907400. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for hazy-bridge is: 5476257. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for hazy-bridge is: 6573147. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "6573147",
+            "7907400",
+            "5163555",
+            "5476257"
+        ],
+        "answer_prefix": " The special magic numbers for hazy-bridge mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 37,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for ivory-turbine mentioned in the provided text?",
+        "context": " One of the special magic numbers for ivory-turbine is: 6866294. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for ivory-turbine is: 8722606. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for ivory-turbine is: 6120253. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for ivory-turbine is: 4348276. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4348276",
+            "8722606",
+            "6866294",
+            "6120253"
+        ],
+        "answer_prefix": " The special magic numbers for ivory-turbine mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 38,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-zephyr mentioned in the provided text?",
+        "context": " One of the special magic numbers for keen-zephyr is: 6891254. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-zephyr is: 5682940. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for keen-zephyr is: 9546409. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for keen-zephyr is: 2164686. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2164686",
+            "5682940",
+            "6891254",
+            "9546409"
+        ],
+        "answer_prefix": " The special magic numbers for keen-zephyr mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 39,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for keen-harbor mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for keen-harbor is: 1641849. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for keen-harbor is: 5453786. Essay Three. One of the special magic numbers for keen-harbor is: 2818692. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for keen-harbor is: 3995870. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "3995870",
+            "5453786",
+            "1641849",
+            "2818692"
+        ],
+        "answer_prefix": " The special magic numbers for keen-harbor mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 40,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for youthful-whistle mentioned in the provided text?",
+        "context": " One of the special magic numbers for youthful-whistle is: 7462506.  One of the special magic numbers for youthful-whistle is: 2940214. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for youthful-whistle is: 4188992. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for youthful-whistle is: 9580255. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "9580255",
+            "2940214",
+            "7462506",
+            "4188992"
+        ],
+        "answer_prefix": " The special magic numbers for youthful-whistle mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 41,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for opulent-island mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for opulent-island is: 6539837. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for opulent-island is: 2173965. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for opulent-island is: 6266630. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for opulent-island is: 8235969. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8235969",
+            "2173965",
+            "6539837",
+            "6266630"
+        ],
+        "answer_prefix": " The special magic numbers for opulent-island mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 42,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for pristine-whistle mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for pristine-whistle is: 4218542. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for pristine-whistle is: 3135534. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for pristine-whistle is: 8053918. The goal is simply to unblock small-scale experiments while staying deterministic. One of the special magic numbers for pristine-whistle is: 5960271. ",
+        "outputs": [
+            "5960271",
+            "3135534",
+            "4218542",
+            "8053918"
+        ],
+        "answer_prefix": " The special magic numbers for pristine-whistle mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 43,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for pristine-zephyr mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for pristine-zephyr is: 5813613. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for pristine-zephyr is: 6098175. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for pristine-zephyr is: 4526280.  One of the special magic numbers for pristine-zephyr is: 1006810. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "1006810",
+            "6098175",
+            "5813613",
+            "4526280"
+        ],
+        "answer_prefix": " The special magic numbers for pristine-zephyr mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 44,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for radiant-keyboard mentioned in the provided text?",
+        "context": "Essay One. One of the special magic numbers for radiant-keyboard is: 9576076. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for radiant-keyboard is: 4585314. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for radiant-keyboard is: 8938746. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for radiant-keyboard is: 8418210. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8418210",
+            "4585314",
+            "9576076",
+            "8938746"
+        ],
+        "answer_prefix": " The special magic numbers for radiant-keyboard mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 45,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for daring-river mentioned in the provided text?",
+        "context": " One of the special magic numbers for daring-river is: 4768844.  One of the special magic numbers for daring-river is: 6207974. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. One of the special magic numbers for daring-river is: 4340845. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for daring-river is: 4940441. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "4940441",
+            "6207974",
+            "4768844",
+            "4340845"
+        ],
+        "answer_prefix": " The special magic numbers for daring-river mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 46,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for zealous-bridge mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for zealous-bridge is: 7953166. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. One of the special magic numbers for zealous-bridge is: 8640615.  One of the special magic numbers for zealous-bridge is: 4262081. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for zealous-bridge is: 2221854. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2221854",
+            "8640615",
+            "7953166",
+            "4262081"
+        ],
+        "answer_prefix": " The special magic numbers for zealous-bridge mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 47,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for amber-forest mentioned in the provided text?",
+        "context": " One of the special magic numbers for amber-forest is: 4671545. Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for amber-forest is: 8132769. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for amber-forest is: 3950888. Essay Four. One of the special magic numbers for amber-forest is: 2788238. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "2788238",
+            "8132769",
+            "4671545",
+            "3950888"
+        ],
+        "answer_prefix": " The special magic numbers for amber-forest mentioned in the provided text are",
+        "length": 276
+    },
+    {
+        "index": 48,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for emerald-umbrella mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. Essay Two. One of the special magic numbers for emerald-umbrella is: 8795419. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. One of the special magic numbers for emerald-umbrella is: 3237058. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. Essay Four. One of the special magic numbers for emerald-umbrella is: 9910914.  One of the special magic numbers for emerald-umbrella is: 8658158. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8658158",
+            "3237058",
+            "8795419",
+            "9910914"
+        ],
+        "answer_prefix": " The special magic numbers for emerald-umbrella mentioned in the provided text are",
+        "length": 275
+    },
+    {
+        "index": 49,
+        "input": "Some special magic numbers are hidden within the following text. Make sure to memorize it. What are all the special magic numbers for vivid-planet mentioned in the provided text?",
+        "context": "Essay One. This is a lightweight placeholder essay used for offline synthetic data generation. It contains several sentences to emulate the structure of longer essays without requiring network downloads. One of the special magic numbers for vivid-planet is: 8963715.  One of the special magic numbers for vivid-planet is: 3670226.  One of the special magic numbers for vivid-planet is: 8550917. Essay Two. The text continues with varied phrasing so the data pipeline can shuffle and sample from it as expected. Essay Three. More content ensures that the tokenizer has enough material to build contexts spanning multiple sentences. One of the special magic numbers for vivid-planet is: 8481188. Essay Four. The goal is simply to unblock small-scale experiments while staying deterministic.",
+        "outputs": [
+            "8481188",
+            "3670226",
+            "8963715",
+            "8550917"
+        ],
+        "answer_prefix": " The special magic numbers for vivid-planet mentioned in the provided text are",
+        "length": 275
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "context": "Document 1:\nPassage 0\nThis passage covers synthetic topic number 0 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 1\nThis passage covers synthetic topic number 1 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 2\nThis passage covers synthetic topic number 2 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 3\nThis passage covers synthetic topic number 3 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 4\nThis passage covers synthetic topic number 4 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 5\nThis passage covers synthetic topic number 5 with enough detail for reasoning tasks.",
+        "input": "Question 0: Which passage mentions topic 0?",
+        "answers": [
+            "Synthetic answer 0: topic 0"
+        ],
+        "num_docs": 6,
+        "index": 0
+    },
+    {
+        "context": "Document 1:\nPassage 3\nThis passage covers synthetic topic number 3 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 4\nThis passage covers synthetic topic number 4 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 5\nThis passage covers synthetic topic number 5 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 6\nThis passage covers synthetic topic number 6 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 7\nThis passage covers synthetic topic number 7 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 8\nThis passage covers synthetic topic number 8 with enough detail for reasoning tasks.",
+        "input": "Question 1: Which passage mentions topic 3?",
+        "answers": [
+            "Synthetic answer 1: topic 3"
+        ],
+        "num_docs": 6,
+        "index": 1
+    },
+    {
+        "context": "Document 1:\nPassage 6\nThis passage covers synthetic topic number 6 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 7\nThis passage covers synthetic topic number 7 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 8\nThis passage covers synthetic topic number 8 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 9\nThis passage covers synthetic topic number 9 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 10\nThis passage covers synthetic topic number 10 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 11\nThis passage covers synthetic topic number 11 with enough detail for reasoning tasks.",
+        "input": "Question 2: Which passage mentions topic 6?",
+        "answers": [
+            "Synthetic answer 2: topic 6"
+        ],
+        "num_docs": 6,
+        "index": 2
+    },
+    {
+        "context": "Document 1:\nPassage 9\nThis passage covers synthetic topic number 9 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 10\nThis passage covers synthetic topic number 10 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 11\nThis passage covers synthetic topic number 11 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 12\nThis passage covers synthetic topic number 12 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 13\nThis passage covers synthetic topic number 13 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 14\nThis passage covers synthetic topic number 14 with enough detail for reasoning tasks.",
+        "input": "Question 3: Which passage mentions topic 9?",
+        "answers": [
+            "Synthetic answer 3: topic 9"
+        ],
+        "num_docs": 6,
+        "index": 3
+    },
+    {
+        "context": "Document 1:\nPassage 12\nThis passage covers synthetic topic number 12 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 13\nThis passage covers synthetic topic number 13 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 14\nThis passage covers synthetic topic number 14 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 15\nThis passage covers synthetic topic number 15 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 16\nThis passage covers synthetic topic number 16 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 17\nThis passage covers synthetic topic number 17 with enough detail for reasoning tasks.",
+        "input": "Question 4: Which passage mentions topic 12?",
+        "answers": [
+            "Synthetic answer 4: topic 12"
+        ],
+        "num_docs": 6,
+        "index": 4
+    },
+    {
+        "context": "Document 1:\nPassage 15\nThis passage covers synthetic topic number 15 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 16\nThis passage covers synthetic topic number 16 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 17\nThis passage covers synthetic topic number 17 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 18\nThis passage covers synthetic topic number 18 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 19\nThis passage covers synthetic topic number 19 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 20\nThis passage covers synthetic topic number 20 with enough detail for reasoning tasks.",
+        "input": "Question 5: Which passage mentions topic 15?",
+        "answers": [
+            "Synthetic answer 5: topic 15"
+        ],
+        "num_docs": 6,
+        "index": 5
+    },
+    {
+        "context": "Document 1:\nPassage 18\nThis passage covers synthetic topic number 18 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 19\nThis passage covers synthetic topic number 19 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 20\nThis passage covers synthetic topic number 20 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 21\nThis passage covers synthetic topic number 21 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 22\nThis passage covers synthetic topic number 22 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 23\nThis passage covers synthetic topic number 23 with enough detail for reasoning tasks.",
+        "input": "Question 6: Which passage mentions topic 18?",
+        "answers": [
+            "Synthetic answer 6: topic 18"
+        ],
+        "num_docs": 6,
+        "index": 6
+    },
+    {
+        "context": "Document 1:\nPassage 21\nThis passage covers synthetic topic number 21 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 22\nThis passage covers synthetic topic number 22 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 23\nThis passage covers synthetic topic number 23 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 24\nThis passage covers synthetic topic number 24 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 25\nThis passage covers synthetic topic number 25 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 26\nThis passage covers synthetic topic number 26 with enough detail for reasoning tasks.",
+        "input": "Question 7: Which passage mentions topic 21?",
+        "answers": [
+            "Synthetic answer 7: topic 21"
+        ],
+        "num_docs": 6,
+        "index": 7
+    },
+    {
+        "context": "Document 1:\nPassage 24\nThis passage covers synthetic topic number 24 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 25\nThis passage covers synthetic topic number 25 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 26\nThis passage covers synthetic topic number 26 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 27\nThis passage covers synthetic topic number 27 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 28\nThis passage covers synthetic topic number 28 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 29\nThis passage covers synthetic topic number 29 with enough detail for reasoning tasks.",
+        "input": "Question 8: Which passage mentions topic 24?",
+        "answers": [
+            "Synthetic answer 8: topic 24"
+        ],
+        "num_docs": 6,
+        "index": 8
+    },
+    {
+        "context": "Document 1:\nPassage 27\nThis passage covers synthetic topic number 27 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 28\nThis passage covers synthetic topic number 28 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 29\nThis passage covers synthetic topic number 29 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 30\nThis passage covers synthetic topic number 30 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 31\nThis passage covers synthetic topic number 31 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 32\nThis passage covers synthetic topic number 32 with enough detail for reasoning tasks.",
+        "input": "Question 9: Which passage mentions topic 27?",
+        "answers": [
+            "Synthetic answer 9: topic 27"
+        ],
+        "num_docs": 6,
+        "index": 9
+    },
+    {
+        "context": "Document 1:\nPassage 30\nThis passage covers synthetic topic number 30 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 31\nThis passage covers synthetic topic number 31 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 32\nThis passage covers synthetic topic number 32 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 33\nThis passage covers synthetic topic number 33 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 34\nThis passage covers synthetic topic number 34 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 35\nThis passage covers synthetic topic number 35 with enough detail for reasoning tasks.",
+        "input": "Question 10: Which passage mentions topic 30?",
+        "answers": [
+            "Synthetic answer 10: topic 30"
+        ],
+        "num_docs": 6,
+        "index": 10
+    },
+    {
+        "context": "Document 1:\nPassage 33\nThis passage covers synthetic topic number 33 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 34\nThis passage covers synthetic topic number 34 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 35\nThis passage covers synthetic topic number 35 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 36\nThis passage covers synthetic topic number 36 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 37\nThis passage covers synthetic topic number 37 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 38\nThis passage covers synthetic topic number 38 with enough detail for reasoning tasks.",
+        "input": "Question 11: Which passage mentions topic 33?",
+        "answers": [
+            "Synthetic answer 11: topic 33"
+        ],
+        "num_docs": 6,
+        "index": 11
+    },
+    {
+        "context": "Document 1:\nPassage 36\nThis passage covers synthetic topic number 36 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 37\nThis passage covers synthetic topic number 37 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 38\nThis passage covers synthetic topic number 38 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 39\nThis passage covers synthetic topic number 39 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 40\nThis passage covers synthetic topic number 40 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 41\nThis passage covers synthetic topic number 41 with enough detail for reasoning tasks.",
+        "input": "Question 12: Which passage mentions topic 36?",
+        "answers": [
+            "Synthetic answer 12: topic 36"
+        ],
+        "num_docs": 6,
+        "index": 12
+    },
+    {
+        "context": "Document 1:\nPassage 39\nThis passage covers synthetic topic number 39 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 40\nThis passage covers synthetic topic number 40 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 41\nThis passage covers synthetic topic number 41 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 42\nThis passage covers synthetic topic number 42 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 43\nThis passage covers synthetic topic number 43 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 44\nThis passage covers synthetic topic number 44 with enough detail for reasoning tasks.",
+        "input": "Question 13: Which passage mentions topic 39?",
+        "answers": [
+            "Synthetic answer 13: topic 39"
+        ],
+        "num_docs": 6,
+        "index": 13
+    },
+    {
+        "context": "Document 1:\nPassage 42\nThis passage covers synthetic topic number 42 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 43\nThis passage covers synthetic topic number 43 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 44\nThis passage covers synthetic topic number 44 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 45\nThis passage covers synthetic topic number 45 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 46\nThis passage covers synthetic topic number 46 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 47\nThis passage covers synthetic topic number 47 with enough detail for reasoning tasks.",
+        "input": "Question 14: Which passage mentions topic 42?",
+        "answers": [
+            "Synthetic answer 14: topic 42"
+        ],
+        "num_docs": 6,
+        "index": 14
+    },
+    {
+        "context": "Document 1:\nPassage 45\nThis passage covers synthetic topic number 45 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 46\nThis passage covers synthetic topic number 46 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 47\nThis passage covers synthetic topic number 47 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 48\nThis passage covers synthetic topic number 48 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 49\nThis passage covers synthetic topic number 49 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 50\nThis passage covers synthetic topic number 50 with enough detail for reasoning tasks.",
+        "input": "Question 15: Which passage mentions topic 45?",
+        "answers": [
+            "Synthetic answer 15: topic 45"
+        ],
+        "num_docs": 6,
+        "index": 15
+    },
+    {
+        "context": "Document 1:\nPassage 48\nThis passage covers synthetic topic number 48 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 49\nThis passage covers synthetic topic number 49 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 50\nThis passage covers synthetic topic number 50 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 51\nThis passage covers synthetic topic number 51 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 52\nThis passage covers synthetic topic number 52 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 53\nThis passage covers synthetic topic number 53 with enough detail for reasoning tasks.",
+        "input": "Question 16: Which passage mentions topic 48?",
+        "answers": [
+            "Synthetic answer 16: topic 48"
+        ],
+        "num_docs": 6,
+        "index": 16
+    },
+    {
+        "context": "Document 1:\nPassage 51\nThis passage covers synthetic topic number 51 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 52\nThis passage covers synthetic topic number 52 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 53\nThis passage covers synthetic topic number 53 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 54\nThis passage covers synthetic topic number 54 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 55\nThis passage covers synthetic topic number 55 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 56\nThis passage covers synthetic topic number 56 with enough detail for reasoning tasks.",
+        "input": "Question 17: Which passage mentions topic 51?",
+        "answers": [
+            "Synthetic answer 17: topic 51"
+        ],
+        "num_docs": 6,
+        "index": 17
+    },
+    {
+        "context": "Document 1:\nPassage 54\nThis passage covers synthetic topic number 54 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 55\nThis passage covers synthetic topic number 55 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 56\nThis passage covers synthetic topic number 56 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 57\nThis passage covers synthetic topic number 57 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 58\nThis passage covers synthetic topic number 58 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 59\nThis passage covers synthetic topic number 59 with enough detail for reasoning tasks.",
+        "input": "Question 18: Which passage mentions topic 54?",
+        "answers": [
+            "Synthetic answer 18: topic 54"
+        ],
+        "num_docs": 6,
+        "index": 18
+    },
+    {
+        "context": "Document 1:\nPassage 57\nThis passage covers synthetic topic number 57 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 58\nThis passage covers synthetic topic number 58 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 59\nThis passage covers synthetic topic number 59 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 60\nThis passage covers synthetic topic number 60 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 61\nThis passage covers synthetic topic number 61 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 62\nThis passage covers synthetic topic number 62 with enough detail for reasoning tasks.",
+        "input": "Question 19: Which passage mentions topic 57?",
+        "answers": [
+            "Synthetic answer 19: topic 57"
+        ],
+        "num_docs": 6,
+        "index": 19
+    },
+    {
+        "context": "Document 1:\nPassage 60\nThis passage covers synthetic topic number 60 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 61\nThis passage covers synthetic topic number 61 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 62\nThis passage covers synthetic topic number 62 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 63\nThis passage covers synthetic topic number 63 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 64\nThis passage covers synthetic topic number 64 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 65\nThis passage covers synthetic topic number 65 with enough detail for reasoning tasks.",
+        "input": "Question 20: Which passage mentions topic 60?",
+        "answers": [
+            "Synthetic answer 20: topic 60"
+        ],
+        "num_docs": 6,
+        "index": 20
+    },
+    {
+        "context": "Document 1:\nPassage 63\nThis passage covers synthetic topic number 63 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 64\nThis passage covers synthetic topic number 64 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 65\nThis passage covers synthetic topic number 65 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 66\nThis passage covers synthetic topic number 66 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 67\nThis passage covers synthetic topic number 67 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 68\nThis passage covers synthetic topic number 68 with enough detail for reasoning tasks.",
+        "input": "Question 21: Which passage mentions topic 63?",
+        "answers": [
+            "Synthetic answer 21: topic 63"
+        ],
+        "num_docs": 6,
+        "index": 21
+    },
+    {
+        "context": "Document 1:\nPassage 66\nThis passage covers synthetic topic number 66 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 67\nThis passage covers synthetic topic number 67 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 68\nThis passage covers synthetic topic number 68 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 69\nThis passage covers synthetic topic number 69 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 70\nThis passage covers synthetic topic number 70 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 71\nThis passage covers synthetic topic number 71 with enough detail for reasoning tasks.",
+        "input": "Question 22: Which passage mentions topic 66?",
+        "answers": [
+            "Synthetic answer 22: topic 66"
+        ],
+        "num_docs": 6,
+        "index": 22
+    },
+    {
+        "context": "Document 1:\nPassage 69\nThis passage covers synthetic topic number 69 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 70\nThis passage covers synthetic topic number 70 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 71\nThis passage covers synthetic topic number 71 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 72\nThis passage covers synthetic topic number 72 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 73\nThis passage covers synthetic topic number 73 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 74\nThis passage covers synthetic topic number 74 with enough detail for reasoning tasks.",
+        "input": "Question 23: Which passage mentions topic 69?",
+        "answers": [
+            "Synthetic answer 23: topic 69"
+        ],
+        "num_docs": 6,
+        "index": 23
+    },
+    {
+        "context": "Document 1:\nPassage 72\nThis passage covers synthetic topic number 72 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 73\nThis passage covers synthetic topic number 73 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 74\nThis passage covers synthetic topic number 74 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 75\nThis passage covers synthetic topic number 75 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 76\nThis passage covers synthetic topic number 76 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 77\nThis passage covers synthetic topic number 77 with enough detail for reasoning tasks.",
+        "input": "Question 24: Which passage mentions topic 72?",
+        "answers": [
+            "Synthetic answer 24: topic 72"
+        ],
+        "num_docs": 6,
+        "index": 24
+    },
+    {
+        "context": "Document 1:\nPassage 75\nThis passage covers synthetic topic number 75 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 76\nThis passage covers synthetic topic number 76 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 77\nThis passage covers synthetic topic number 77 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 78\nThis passage covers synthetic topic number 78 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 79\nThis passage covers synthetic topic number 79 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 80\nThis passage covers synthetic topic number 80 with enough detail for reasoning tasks.",
+        "input": "Question 25: Which passage mentions topic 75?",
+        "answers": [
+            "Synthetic answer 25: topic 75"
+        ],
+        "num_docs": 6,
+        "index": 25
+    },
+    {
+        "context": "Document 1:\nPassage 78\nThis passage covers synthetic topic number 78 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 79\nThis passage covers synthetic topic number 79 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 80\nThis passage covers synthetic topic number 80 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 81\nThis passage covers synthetic topic number 81 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 82\nThis passage covers synthetic topic number 82 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 83\nThis passage covers synthetic topic number 83 with enough detail for reasoning tasks.",
+        "input": "Question 26: Which passage mentions topic 78?",
+        "answers": [
+            "Synthetic answer 26: topic 78"
+        ],
+        "num_docs": 6,
+        "index": 26
+    },
+    {
+        "context": "Document 1:\nPassage 81\nThis passage covers synthetic topic number 81 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 82\nThis passage covers synthetic topic number 82 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 83\nThis passage covers synthetic topic number 83 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 84\nThis passage covers synthetic topic number 84 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 85\nThis passage covers synthetic topic number 85 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 86\nThis passage covers synthetic topic number 86 with enough detail for reasoning tasks.",
+        "input": "Question 27: Which passage mentions topic 81?",
+        "answers": [
+            "Synthetic answer 27: topic 81"
+        ],
+        "num_docs": 6,
+        "index": 27
+    },
+    {
+        "context": "Document 1:\nPassage 84\nThis passage covers synthetic topic number 84 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 85\nThis passage covers synthetic topic number 85 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 86\nThis passage covers synthetic topic number 86 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 87\nThis passage covers synthetic topic number 87 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 88\nThis passage covers synthetic topic number 88 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 89\nThis passage covers synthetic topic number 89 with enough detail for reasoning tasks.",
+        "input": "Question 28: Which passage mentions topic 84?",
+        "answers": [
+            "Synthetic answer 28: topic 84"
+        ],
+        "num_docs": 6,
+        "index": 28
+    },
+    {
+        "context": "Document 1:\nPassage 87\nThis passage covers synthetic topic number 87 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 88\nThis passage covers synthetic topic number 88 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 89\nThis passage covers synthetic topic number 89 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 90\nThis passage covers synthetic topic number 90 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 91\nThis passage covers synthetic topic number 91 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 92\nThis passage covers synthetic topic number 92 with enough detail for reasoning tasks.",
+        "input": "Question 29: Which passage mentions topic 87?",
+        "answers": [
+            "Synthetic answer 29: topic 87"
+        ],
+        "num_docs": 6,
+        "index": 29
+    },
+    {
+        "context": "Document 1:\nPassage 90\nThis passage covers synthetic topic number 90 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 91\nThis passage covers synthetic topic number 91 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 92\nThis passage covers synthetic topic number 92 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 93\nThis passage covers synthetic topic number 93 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 94\nThis passage covers synthetic topic number 94 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 95\nThis passage covers synthetic topic number 95 with enough detail for reasoning tasks.",
+        "input": "Question 30: Which passage mentions topic 90?",
+        "answers": [
+            "Synthetic answer 30: topic 90"
+        ],
+        "num_docs": 6,
+        "index": 30
+    },
+    {
+        "context": "Document 1:\nPassage 93\nThis passage covers synthetic topic number 93 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 94\nThis passage covers synthetic topic number 94 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 95\nThis passage covers synthetic topic number 95 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 96\nThis passage covers synthetic topic number 96 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 97\nThis passage covers synthetic topic number 97 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 98\nThis passage covers synthetic topic number 98 with enough detail for reasoning tasks.",
+        "input": "Question 31: Which passage mentions topic 93?",
+        "answers": [
+            "Synthetic answer 31: topic 93"
+        ],
+        "num_docs": 6,
+        "index": 31
+    },
+    {
+        "context": "Document 1:\nPassage 96\nThis passage covers synthetic topic number 96 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 97\nThis passage covers synthetic topic number 97 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 98\nThis passage covers synthetic topic number 98 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 99\nThis passage covers synthetic topic number 99 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 100\nThis passage covers synthetic topic number 100 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 101\nThis passage covers synthetic topic number 101 with enough detail for reasoning tasks.",
+        "input": "Question 32: Which passage mentions topic 96?",
+        "answers": [
+            "Synthetic answer 32: topic 96"
+        ],
+        "num_docs": 6,
+        "index": 32
+    },
+    {
+        "context": "Document 1:\nPassage 99\nThis passage covers synthetic topic number 99 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 100\nThis passage covers synthetic topic number 100 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 101\nThis passage covers synthetic topic number 101 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 102\nThis passage covers synthetic topic number 102 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 103\nThis passage covers synthetic topic number 103 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 104\nThis passage covers synthetic topic number 104 with enough detail for reasoning tasks.",
+        "input": "Question 33: Which passage mentions topic 99?",
+        "answers": [
+            "Synthetic answer 33: topic 99"
+        ],
+        "num_docs": 6,
+        "index": 33
+    },
+    {
+        "context": "Document 1:\nPassage 102\nThis passage covers synthetic topic number 102 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 103\nThis passage covers synthetic topic number 103 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 104\nThis passage covers synthetic topic number 104 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 105\nThis passage covers synthetic topic number 105 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 106\nThis passage covers synthetic topic number 106 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 107\nThis passage covers synthetic topic number 107 with enough detail for reasoning tasks.",
+        "input": "Question 34: Which passage mentions topic 102?",
+        "answers": [
+            "Synthetic answer 34: topic 102"
+        ],
+        "num_docs": 6,
+        "index": 34
+    },
+    {
+        "context": "Document 1:\nPassage 105\nThis passage covers synthetic topic number 105 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 106\nThis passage covers synthetic topic number 106 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 107\nThis passage covers synthetic topic number 107 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 108\nThis passage covers synthetic topic number 108 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 109\nThis passage covers synthetic topic number 109 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 110\nThis passage covers synthetic topic number 110 with enough detail for reasoning tasks.",
+        "input": "Question 35: Which passage mentions topic 105?",
+        "answers": [
+            "Synthetic answer 35: topic 105"
+        ],
+        "num_docs": 6,
+        "index": 35
+    },
+    {
+        "context": "Document 1:\nPassage 108\nThis passage covers synthetic topic number 108 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 109\nThis passage covers synthetic topic number 109 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 110\nThis passage covers synthetic topic number 110 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 111\nThis passage covers synthetic topic number 111 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 112\nThis passage covers synthetic topic number 112 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 113\nThis passage covers synthetic topic number 113 with enough detail for reasoning tasks.",
+        "input": "Question 36: Which passage mentions topic 108?",
+        "answers": [
+            "Synthetic answer 36: topic 108"
+        ],
+        "num_docs": 6,
+        "index": 36
+    },
+    {
+        "context": "Document 1:\nPassage 111\nThis passage covers synthetic topic number 111 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 112\nThis passage covers synthetic topic number 112 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 113\nThis passage covers synthetic topic number 113 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 114\nThis passage covers synthetic topic number 114 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 115\nThis passage covers synthetic topic number 115 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 116\nThis passage covers synthetic topic number 116 with enough detail for reasoning tasks.",
+        "input": "Question 37: Which passage mentions topic 111?",
+        "answers": [
+            "Synthetic answer 37: topic 111"
+        ],
+        "num_docs": 6,
+        "index": 37
+    },
+    {
+        "context": "Document 1:\nPassage 114\nThis passage covers synthetic topic number 114 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 115\nThis passage covers synthetic topic number 115 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 116\nThis passage covers synthetic topic number 116 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 117\nThis passage covers synthetic topic number 117 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 118\nThis passage covers synthetic topic number 118 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 119\nThis passage covers synthetic topic number 119 with enough detail for reasoning tasks.",
+        "input": "Question 38: Which passage mentions topic 114?",
+        "answers": [
+            "Synthetic answer 38: topic 114"
+        ],
+        "num_docs": 6,
+        "index": 38
+    },
+    {
+        "context": "Document 1:\nPassage 117\nThis passage covers synthetic topic number 117 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 118\nThis passage covers synthetic topic number 118 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 119\nThis passage covers synthetic topic number 119 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 120\nThis passage covers synthetic topic number 120 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 121\nThis passage covers synthetic topic number 121 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 122\nThis passage covers synthetic topic number 122 with enough detail for reasoning tasks.",
+        "input": "Question 39: Which passage mentions topic 117?",
+        "answers": [
+            "Synthetic answer 39: topic 117"
+        ],
+        "num_docs": 6,
+        "index": 39
+    },
+    {
+        "context": "Document 1:\nPassage 120\nThis passage covers synthetic topic number 120 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 121\nThis passage covers synthetic topic number 121 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 122\nThis passage covers synthetic topic number 122 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 123\nThis passage covers synthetic topic number 123 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 124\nThis passage covers synthetic topic number 124 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 125\nThis passage covers synthetic topic number 125 with enough detail for reasoning tasks.",
+        "input": "Question 40: Which passage mentions topic 120?",
+        "answers": [
+            "Synthetic answer 40: topic 120"
+        ],
+        "num_docs": 6,
+        "index": 40
+    },
+    {
+        "context": "Document 1:\nPassage 123\nThis passage covers synthetic topic number 123 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 124\nThis passage covers synthetic topic number 124 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 125\nThis passage covers synthetic topic number 125 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 126\nThis passage covers synthetic topic number 126 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 127\nThis passage covers synthetic topic number 127 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 128\nThis passage covers synthetic topic number 128 with enough detail for reasoning tasks.",
+        "input": "Question 41: Which passage mentions topic 123?",
+        "answers": [
+            "Synthetic answer 41: topic 123"
+        ],
+        "num_docs": 6,
+        "index": 41
+    },
+    {
+        "context": "Document 1:\nPassage 126\nThis passage covers synthetic topic number 126 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 127\nThis passage covers synthetic topic number 127 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 128\nThis passage covers synthetic topic number 128 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 129\nThis passage covers synthetic topic number 129 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 130\nThis passage covers synthetic topic number 130 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 131\nThis passage covers synthetic topic number 131 with enough detail for reasoning tasks.",
+        "input": "Question 42: Which passage mentions topic 126?",
+        "answers": [
+            "Synthetic answer 42: topic 126"
+        ],
+        "num_docs": 6,
+        "index": 42
+    },
+    {
+        "context": "Document 1:\nPassage 129\nThis passage covers synthetic topic number 129 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 130\nThis passage covers synthetic topic number 130 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 131\nThis passage covers synthetic topic number 131 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 132\nThis passage covers synthetic topic number 132 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 133\nThis passage covers synthetic topic number 133 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 134\nThis passage covers synthetic topic number 134 with enough detail for reasoning tasks.",
+        "input": "Question 43: Which passage mentions topic 129?",
+        "answers": [
+            "Synthetic answer 43: topic 129"
+        ],
+        "num_docs": 6,
+        "index": 43
+    },
+    {
+        "context": "Document 1:\nPassage 132\nThis passage covers synthetic topic number 132 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 133\nThis passage covers synthetic topic number 133 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 134\nThis passage covers synthetic topic number 134 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 135\nThis passage covers synthetic topic number 135 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 136\nThis passage covers synthetic topic number 136 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 137\nThis passage covers synthetic topic number 137 with enough detail for reasoning tasks.",
+        "input": "Question 44: Which passage mentions topic 132?",
+        "answers": [
+            "Synthetic answer 44: topic 132"
+        ],
+        "num_docs": 6,
+        "index": 44
+    },
+    {
+        "context": "Document 1:\nPassage 135\nThis passage covers synthetic topic number 135 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 136\nThis passage covers synthetic topic number 136 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 137\nThis passage covers synthetic topic number 137 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 138\nThis passage covers synthetic topic number 138 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 139\nThis passage covers synthetic topic number 139 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 140\nThis passage covers synthetic topic number 140 with enough detail for reasoning tasks.",
+        "input": "Question 45: Which passage mentions topic 135?",
+        "answers": [
+            "Synthetic answer 45: topic 135"
+        ],
+        "num_docs": 6,
+        "index": 45
+    },
+    {
+        "context": "Document 1:\nPassage 138\nThis passage covers synthetic topic number 138 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 139\nThis passage covers synthetic topic number 139 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 140\nThis passage covers synthetic topic number 140 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 141\nThis passage covers synthetic topic number 141 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 142\nThis passage covers synthetic topic number 142 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 143\nThis passage covers synthetic topic number 143 with enough detail for reasoning tasks.",
+        "input": "Question 46: Which passage mentions topic 138?",
+        "answers": [
+            "Synthetic answer 46: topic 138"
+        ],
+        "num_docs": 6,
+        "index": 46
+    },
+    {
+        "context": "Document 1:\nPassage 141\nThis passage covers synthetic topic number 141 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 142\nThis passage covers synthetic topic number 142 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 143\nThis passage covers synthetic topic number 143 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 144\nThis passage covers synthetic topic number 144 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 145\nThis passage covers synthetic topic number 145 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 146\nThis passage covers synthetic topic number 146 with enough detail for reasoning tasks.",
+        "input": "Question 47: Which passage mentions topic 141?",
+        "answers": [
+            "Synthetic answer 47: topic 141"
+        ],
+        "num_docs": 6,
+        "index": 47
+    },
+    {
+        "context": "Document 1:\nPassage 144\nThis passage covers synthetic topic number 144 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 145\nThis passage covers synthetic topic number 145 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 146\nThis passage covers synthetic topic number 146 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 147\nThis passage covers synthetic topic number 147 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 148\nThis passage covers synthetic topic number 148 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 149\nThis passage covers synthetic topic number 149 with enough detail for reasoning tasks.",
+        "input": "Question 48: Which passage mentions topic 144?",
+        "answers": [
+            "Synthetic answer 48: topic 144"
+        ],
+        "num_docs": 6,
+        "index": 48
+    },
+    {
+        "context": "Document 1:\nPassage 147\nThis passage covers synthetic topic number 147 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 148\nThis passage covers synthetic topic number 148 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 149\nThis passage covers synthetic topic number 149 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 150\nThis passage covers synthetic topic number 150 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 151\nThis passage covers synthetic topic number 151 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 152\nThis passage covers synthetic topic number 152 with enough detail for reasoning tasks.",
+        "input": "Question 49: Which passage mentions topic 147?",
+        "answers": [
+            "Synthetic answer 49: topic 147"
+        ],
+        "num_docs": 6,
+        "index": 49
+    },
+    {
+        "context": "Document 1:\nPassage 150\nThis passage covers synthetic topic number 150 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 151\nThis passage covers synthetic topic number 151 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 152\nThis passage covers synthetic topic number 152 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 153\nThis passage covers synthetic topic number 153 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 154\nThis passage covers synthetic topic number 154 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 155\nThis passage covers synthetic topic number 155 with enough detail for reasoning tasks.",
+        "input": "Question 50: Which passage mentions topic 150?",
+        "answers": [
+            "Synthetic answer 50: topic 150"
+        ],
+        "num_docs": 6,
+        "index": 50
+    },
+    {
+        "context": "Document 1:\nPassage 153\nThis passage covers synthetic topic number 153 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 154\nThis passage covers synthetic topic number 154 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 155\nThis passage covers synthetic topic number 155 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 156\nThis passage covers synthetic topic number 156 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 157\nThis passage covers synthetic topic number 157 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 158\nThis passage covers synthetic topic number 158 with enough detail for reasoning tasks.",
+        "input": "Question 51: Which passage mentions topic 153?",
+        "answers": [
+            "Synthetic answer 51: topic 153"
+        ],
+        "num_docs": 6,
+        "index": 51
+    },
+    {
+        "context": "Document 1:\nPassage 156\nThis passage covers synthetic topic number 156 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 157\nThis passage covers synthetic topic number 157 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 158\nThis passage covers synthetic topic number 158 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 159\nThis passage covers synthetic topic number 159 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 160\nThis passage covers synthetic topic number 160 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 161\nThis passage covers synthetic topic number 161 with enough detail for reasoning tasks.",
+        "input": "Question 52: Which passage mentions topic 156?",
+        "answers": [
+            "Synthetic answer 52: topic 156"
+        ],
+        "num_docs": 6,
+        "index": 52
+    },
+    {
+        "context": "Document 1:\nPassage 159\nThis passage covers synthetic topic number 159 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 160\nThis passage covers synthetic topic number 160 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 161\nThis passage covers synthetic topic number 161 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 162\nThis passage covers synthetic topic number 162 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 163\nThis passage covers synthetic topic number 163 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 164\nThis passage covers synthetic topic number 164 with enough detail for reasoning tasks.",
+        "input": "Question 53: Which passage mentions topic 159?",
+        "answers": [
+            "Synthetic answer 53: topic 159"
+        ],
+        "num_docs": 6,
+        "index": 53
+    },
+    {
+        "context": "Document 1:\nPassage 162\nThis passage covers synthetic topic number 162 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 163\nThis passage covers synthetic topic number 163 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 164\nThis passage covers synthetic topic number 164 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 165\nThis passage covers synthetic topic number 165 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 166\nThis passage covers synthetic topic number 166 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 167\nThis passage covers synthetic topic number 167 with enough detail for reasoning tasks.",
+        "input": "Question 54: Which passage mentions topic 162?",
+        "answers": [
+            "Synthetic answer 54: topic 162"
+        ],
+        "num_docs": 6,
+        "index": 54
+    },
+    {
+        "context": "Document 1:\nPassage 165\nThis passage covers synthetic topic number 165 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 166\nThis passage covers synthetic topic number 166 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 167\nThis passage covers synthetic topic number 167 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 168\nThis passage covers synthetic topic number 168 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 169\nThis passage covers synthetic topic number 169 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 170\nThis passage covers synthetic topic number 170 with enough detail for reasoning tasks.",
+        "input": "Question 55: Which passage mentions topic 165?",
+        "answers": [
+            "Synthetic answer 55: topic 165"
+        ],
+        "num_docs": 6,
+        "index": 55
+    },
+    {
+        "context": "Document 1:\nPassage 168\nThis passage covers synthetic topic number 168 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 169\nThis passage covers synthetic topic number 169 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 170\nThis passage covers synthetic topic number 170 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 171\nThis passage covers synthetic topic number 171 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 172\nThis passage covers synthetic topic number 172 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 173\nThis passage covers synthetic topic number 173 with enough detail for reasoning tasks.",
+        "input": "Question 56: Which passage mentions topic 168?",
+        "answers": [
+            "Synthetic answer 56: topic 168"
+        ],
+        "num_docs": 6,
+        "index": 56
+    },
+    {
+        "context": "Document 1:\nPassage 171\nThis passage covers synthetic topic number 171 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 172\nThis passage covers synthetic topic number 172 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 173\nThis passage covers synthetic topic number 173 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 174\nThis passage covers synthetic topic number 174 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 175\nThis passage covers synthetic topic number 175 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 176\nThis passage covers synthetic topic number 176 with enough detail for reasoning tasks.",
+        "input": "Question 57: Which passage mentions topic 171?",
+        "answers": [
+            "Synthetic answer 57: topic 171"
+        ],
+        "num_docs": 6,
+        "index": 57
+    },
+    {
+        "context": "Document 1:\nPassage 174\nThis passage covers synthetic topic number 174 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 175\nThis passage covers synthetic topic number 175 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 176\nThis passage covers synthetic topic number 176 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 177\nThis passage covers synthetic topic number 177 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 178\nThis passage covers synthetic topic number 178 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 179\nThis passage covers synthetic topic number 179 with enough detail for reasoning tasks.",
+        "input": "Question 58: Which passage mentions topic 174?",
+        "answers": [
+            "Synthetic answer 58: topic 174"
+        ],
+        "num_docs": 6,
+        "index": 58
+    },
+    {
+        "context": "Document 1:\nPassage 177\nThis passage covers synthetic topic number 177 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 178\nThis passage covers synthetic topic number 178 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 179\nThis passage covers synthetic topic number 179 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 180\nThis passage covers synthetic topic number 180 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 181\nThis passage covers synthetic topic number 181 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 182\nThis passage covers synthetic topic number 182 with enough detail for reasoning tasks.",
+        "input": "Question 59: Which passage mentions topic 177?",
+        "answers": [
+            "Synthetic answer 59: topic 177"
+        ],
+        "num_docs": 6,
+        "index": 59
+    },
+    {
+        "context": "Document 1:\nPassage 180\nThis passage covers synthetic topic number 180 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 181\nThis passage covers synthetic topic number 181 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 182\nThis passage covers synthetic topic number 182 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 183\nThis passage covers synthetic topic number 183 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 184\nThis passage covers synthetic topic number 184 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 185\nThis passage covers synthetic topic number 185 with enough detail for reasoning tasks.",
+        "input": "Question 60: Which passage mentions topic 180?",
+        "answers": [
+            "Synthetic answer 60: topic 180"
+        ],
+        "num_docs": 6,
+        "index": 60
+    },
+    {
+        "context": "Document 1:\nPassage 183\nThis passage covers synthetic topic number 183 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 184\nThis passage covers synthetic topic number 184 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 185\nThis passage covers synthetic topic number 185 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 186\nThis passage covers synthetic topic number 186 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 187\nThis passage covers synthetic topic number 187 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 188\nThis passage covers synthetic topic number 188 with enough detail for reasoning tasks.",
+        "input": "Question 61: Which passage mentions topic 183?",
+        "answers": [
+            "Synthetic answer 61: topic 183"
+        ],
+        "num_docs": 6,
+        "index": 61
+    },
+    {
+        "context": "Document 1:\nPassage 186\nThis passage covers synthetic topic number 186 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 187\nThis passage covers synthetic topic number 187 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 188\nThis passage covers synthetic topic number 188 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 189\nThis passage covers synthetic topic number 189 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 190\nThis passage covers synthetic topic number 190 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 191\nThis passage covers synthetic topic number 191 with enough detail for reasoning tasks.",
+        "input": "Question 62: Which passage mentions topic 186?",
+        "answers": [
+            "Synthetic answer 62: topic 186"
+        ],
+        "num_docs": 6,
+        "index": 62
+    },
+    {
+        "context": "Document 1:\nPassage 189\nThis passage covers synthetic topic number 189 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 190\nThis passage covers synthetic topic number 190 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 191\nThis passage covers synthetic topic number 191 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 192\nThis passage covers synthetic topic number 192 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 193\nThis passage covers synthetic topic number 193 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 194\nThis passage covers synthetic topic number 194 with enough detail for reasoning tasks.",
+        "input": "Question 63: Which passage mentions topic 189?",
+        "answers": [
+            "Synthetic answer 63: topic 189"
+        ],
+        "num_docs": 6,
+        "index": 63
+    },
+    {
+        "context": "Document 1:\nPassage 192\nThis passage covers synthetic topic number 192 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 193\nThis passage covers synthetic topic number 193 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 194\nThis passage covers synthetic topic number 194 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 195\nThis passage covers synthetic topic number 195 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 196\nThis passage covers synthetic topic number 196 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 197\nThis passage covers synthetic topic number 197 with enough detail for reasoning tasks.",
+        "input": "Question 64: Which passage mentions topic 192?",
+        "answers": [
+            "Synthetic answer 64: topic 192"
+        ],
+        "num_docs": 6,
+        "index": 64
+    },
+    {
+        "context": "Document 1:\nPassage 195\nThis passage covers synthetic topic number 195 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 196\nThis passage covers synthetic topic number 196 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 197\nThis passage covers synthetic topic number 197 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 198\nThis passage covers synthetic topic number 198 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 199\nThis passage covers synthetic topic number 199 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 0\nThis passage covers synthetic topic number 0 with enough detail for reasoning tasks.",
+        "input": "Question 65: Which passage mentions topic 195?",
+        "answers": [
+            "Synthetic answer 65: topic 195"
+        ],
+        "num_docs": 6,
+        "index": 65
+    },
+    {
+        "context": "Document 1:\nPassage 198\nThis passage covers synthetic topic number 198 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 199\nThis passage covers synthetic topic number 199 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 0\nThis passage covers synthetic topic number 0 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 1\nThis passage covers synthetic topic number 1 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 2\nThis passage covers synthetic topic number 2 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 3\nThis passage covers synthetic topic number 3 with enough detail for reasoning tasks.",
+        "input": "Question 66: Which passage mentions topic 198?",
+        "answers": [
+            "Synthetic answer 66: topic 198"
+        ],
+        "num_docs": 6,
+        "index": 66
+    },
+    {
+        "context": "Document 1:\nPassage 1\nThis passage covers synthetic topic number 1 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 2\nThis passage covers synthetic topic number 2 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 3\nThis passage covers synthetic topic number 3 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 4\nThis passage covers synthetic topic number 4 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 5\nThis passage covers synthetic topic number 5 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 6\nThis passage covers synthetic topic number 6 with enough detail for reasoning tasks.",
+        "input": "Question 67: Which passage mentions topic 1?",
+        "answers": [
+            "Synthetic answer 67: topic 1"
+        ],
+        "num_docs": 6,
+        "index": 67
+    },
+    {
+        "context": "Document 1:\nPassage 4\nThis passage covers synthetic topic number 4 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 5\nThis passage covers synthetic topic number 5 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 6\nThis passage covers synthetic topic number 6 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 7\nThis passage covers synthetic topic number 7 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 8\nThis passage covers synthetic topic number 8 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 9\nThis passage covers synthetic topic number 9 with enough detail for reasoning tasks.",
+        "input": "Question 68: Which passage mentions topic 4?",
+        "answers": [
+            "Synthetic answer 68: topic 4"
+        ],
+        "num_docs": 6,
+        "index": 68
+    },
+    {
+        "context": "Document 1:\nPassage 7\nThis passage covers synthetic topic number 7 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 8\nThis passage covers synthetic topic number 8 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 9\nThis passage covers synthetic topic number 9 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 10\nThis passage covers synthetic topic number 10 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 11\nThis passage covers synthetic topic number 11 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 12\nThis passage covers synthetic topic number 12 with enough detail for reasoning tasks.",
+        "input": "Question 69: Which passage mentions topic 7?",
+        "answers": [
+            "Synthetic answer 69: topic 7"
+        ],
+        "num_docs": 6,
+        "index": 69
+    },
+    {
+        "context": "Document 1:\nPassage 10\nThis passage covers synthetic topic number 10 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 11\nThis passage covers synthetic topic number 11 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 12\nThis passage covers synthetic topic number 12 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 13\nThis passage covers synthetic topic number 13 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 14\nThis passage covers synthetic topic number 14 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 15\nThis passage covers synthetic topic number 15 with enough detail for reasoning tasks.",
+        "input": "Question 70: Which passage mentions topic 10?",
+        "answers": [
+            "Synthetic answer 70: topic 10"
+        ],
+        "num_docs": 6,
+        "index": 70
+    },
+    {
+        "context": "Document 1:\nPassage 13\nThis passage covers synthetic topic number 13 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 14\nThis passage covers synthetic topic number 14 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 15\nThis passage covers synthetic topic number 15 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 16\nThis passage covers synthetic topic number 16 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 17\nThis passage covers synthetic topic number 17 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 18\nThis passage covers synthetic topic number 18 with enough detail for reasoning tasks.",
+        "input": "Question 71: Which passage mentions topic 13?",
+        "answers": [
+            "Synthetic answer 71: topic 13"
+        ],
+        "num_docs": 6,
+        "index": 71
+    },
+    {
+        "context": "Document 1:\nPassage 16\nThis passage covers synthetic topic number 16 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 17\nThis passage covers synthetic topic number 17 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 18\nThis passage covers synthetic topic number 18 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 19\nThis passage covers synthetic topic number 19 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 20\nThis passage covers synthetic topic number 20 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 21\nThis passage covers synthetic topic number 21 with enough detail for reasoning tasks.",
+        "input": "Question 72: Which passage mentions topic 16?",
+        "answers": [
+            "Synthetic answer 72: topic 16"
+        ],
+        "num_docs": 6,
+        "index": 72
+    },
+    {
+        "context": "Document 1:\nPassage 19\nThis passage covers synthetic topic number 19 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 20\nThis passage covers synthetic topic number 20 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 21\nThis passage covers synthetic topic number 21 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 22\nThis passage covers synthetic topic number 22 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 23\nThis passage covers synthetic topic number 23 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 24\nThis passage covers synthetic topic number 24 with enough detail for reasoning tasks.",
+        "input": "Question 73: Which passage mentions topic 19?",
+        "answers": [
+            "Synthetic answer 73: topic 19"
+        ],
+        "num_docs": 6,
+        "index": 73
+    },
+    {
+        "context": "Document 1:\nPassage 22\nThis passage covers synthetic topic number 22 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 23\nThis passage covers synthetic topic number 23 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 24\nThis passage covers synthetic topic number 24 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 25\nThis passage covers synthetic topic number 25 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 26\nThis passage covers synthetic topic number 26 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 27\nThis passage covers synthetic topic number 27 with enough detail for reasoning tasks.",
+        "input": "Question 74: Which passage mentions topic 22?",
+        "answers": [
+            "Synthetic answer 74: topic 22"
+        ],
+        "num_docs": 6,
+        "index": 74
+    },
+    {
+        "context": "Document 1:\nPassage 25\nThis passage covers synthetic topic number 25 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 26\nThis passage covers synthetic topic number 26 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 27\nThis passage covers synthetic topic number 27 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 28\nThis passage covers synthetic topic number 28 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 29\nThis passage covers synthetic topic number 29 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 30\nThis passage covers synthetic topic number 30 with enough detail for reasoning tasks.",
+        "input": "Question 75: Which passage mentions topic 25?",
+        "answers": [
+            "Synthetic answer 75: topic 25"
+        ],
+        "num_docs": 6,
+        "index": 75
+    },
+    {
+        "context": "Document 1:\nPassage 28\nThis passage covers synthetic topic number 28 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 29\nThis passage covers synthetic topic number 29 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 30\nThis passage covers synthetic topic number 30 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 31\nThis passage covers synthetic topic number 31 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 32\nThis passage covers synthetic topic number 32 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 33\nThis passage covers synthetic topic number 33 with enough detail for reasoning tasks.",
+        "input": "Question 76: Which passage mentions topic 28?",
+        "answers": [
+            "Synthetic answer 76: topic 28"
+        ],
+        "num_docs": 6,
+        "index": 76
+    },
+    {
+        "context": "Document 1:\nPassage 31\nThis passage covers synthetic topic number 31 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 32\nThis passage covers synthetic topic number 32 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 33\nThis passage covers synthetic topic number 33 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 34\nThis passage covers synthetic topic number 34 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 35\nThis passage covers synthetic topic number 35 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 36\nThis passage covers synthetic topic number 36 with enough detail for reasoning tasks.",
+        "input": "Question 77: Which passage mentions topic 31?",
+        "answers": [
+            "Synthetic answer 77: topic 31"
+        ],
+        "num_docs": 6,
+        "index": 77
+    },
+    {
+        "context": "Document 1:\nPassage 34\nThis passage covers synthetic topic number 34 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 35\nThis passage covers synthetic topic number 35 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 36\nThis passage covers synthetic topic number 36 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 37\nThis passage covers synthetic topic number 37 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 38\nThis passage covers synthetic topic number 38 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 39\nThis passage covers synthetic topic number 39 with enough detail for reasoning tasks.",
+        "input": "Question 78: Which passage mentions topic 34?",
+        "answers": [
+            "Synthetic answer 78: topic 34"
+        ],
+        "num_docs": 6,
+        "index": 78
+    },
+    {
+        "context": "Document 1:\nPassage 37\nThis passage covers synthetic topic number 37 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 38\nThis passage covers synthetic topic number 38 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 39\nThis passage covers synthetic topic number 39 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 40\nThis passage covers synthetic topic number 40 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 41\nThis passage covers synthetic topic number 41 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 42\nThis passage covers synthetic topic number 42 with enough detail for reasoning tasks.",
+        "input": "Question 79: Which passage mentions topic 37?",
+        "answers": [
+            "Synthetic answer 79: topic 37"
+        ],
+        "num_docs": 6,
+        "index": 79
+    },
+    {
+        "context": "Document 1:\nPassage 40\nThis passage covers synthetic topic number 40 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 41\nThis passage covers synthetic topic number 41 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 42\nThis passage covers synthetic topic number 42 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 43\nThis passage covers synthetic topic number 43 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 44\nThis passage covers synthetic topic number 44 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 45\nThis passage covers synthetic topic number 45 with enough detail for reasoning tasks.",
+        "input": "Question 80: Which passage mentions topic 40?",
+        "answers": [
+            "Synthetic answer 80: topic 40"
+        ],
+        "num_docs": 6,
+        "index": 80
+    },
+    {
+        "context": "Document 1:\nPassage 43\nThis passage covers synthetic topic number 43 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 44\nThis passage covers synthetic topic number 44 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 45\nThis passage covers synthetic topic number 45 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 46\nThis passage covers synthetic topic number 46 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 47\nThis passage covers synthetic topic number 47 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 48\nThis passage covers synthetic topic number 48 with enough detail for reasoning tasks.",
+        "input": "Question 81: Which passage mentions topic 43?",
+        "answers": [
+            "Synthetic answer 81: topic 43"
+        ],
+        "num_docs": 6,
+        "index": 81
+    },
+    {
+        "context": "Document 1:\nPassage 46\nThis passage covers synthetic topic number 46 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 47\nThis passage covers synthetic topic number 47 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 48\nThis passage covers synthetic topic number 48 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 49\nThis passage covers synthetic topic number 49 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 50\nThis passage covers synthetic topic number 50 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 51\nThis passage covers synthetic topic number 51 with enough detail for reasoning tasks.",
+        "input": "Question 82: Which passage mentions topic 46?",
+        "answers": [
+            "Synthetic answer 82: topic 46"
+        ],
+        "num_docs": 6,
+        "index": 82
+    },
+    {
+        "context": "Document 1:\nPassage 49\nThis passage covers synthetic topic number 49 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 50\nThis passage covers synthetic topic number 50 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 51\nThis passage covers synthetic topic number 51 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 52\nThis passage covers synthetic topic number 52 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 53\nThis passage covers synthetic topic number 53 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 54\nThis passage covers synthetic topic number 54 with enough detail for reasoning tasks.",
+        "input": "Question 83: Which passage mentions topic 49?",
+        "answers": [
+            "Synthetic answer 83: topic 49"
+        ],
+        "num_docs": 6,
+        "index": 83
+    },
+    {
+        "context": "Document 1:\nPassage 52\nThis passage covers synthetic topic number 52 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 53\nThis passage covers synthetic topic number 53 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 54\nThis passage covers synthetic topic number 54 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 55\nThis passage covers synthetic topic number 55 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 56\nThis passage covers synthetic topic number 56 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 57\nThis passage covers synthetic topic number 57 with enough detail for reasoning tasks.",
+        "input": "Question 84: Which passage mentions topic 52?",
+        "answers": [
+            "Synthetic answer 84: topic 52"
+        ],
+        "num_docs": 6,
+        "index": 84
+    },
+    {
+        "context": "Document 1:\nPassage 55\nThis passage covers synthetic topic number 55 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 56\nThis passage covers synthetic topic number 56 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 57\nThis passage covers synthetic topic number 57 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 58\nThis passage covers synthetic topic number 58 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 59\nThis passage covers synthetic topic number 59 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 60\nThis passage covers synthetic topic number 60 with enough detail for reasoning tasks.",
+        "input": "Question 85: Which passage mentions topic 55?",
+        "answers": [
+            "Synthetic answer 85: topic 55"
+        ],
+        "num_docs": 6,
+        "index": 85
+    },
+    {
+        "context": "Document 1:\nPassage 58\nThis passage covers synthetic topic number 58 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 59\nThis passage covers synthetic topic number 59 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 60\nThis passage covers synthetic topic number 60 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 61\nThis passage covers synthetic topic number 61 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 62\nThis passage covers synthetic topic number 62 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 63\nThis passage covers synthetic topic number 63 with enough detail for reasoning tasks.",
+        "input": "Question 86: Which passage mentions topic 58?",
+        "answers": [
+            "Synthetic answer 86: topic 58"
+        ],
+        "num_docs": 6,
+        "index": 86
+    },
+    {
+        "context": "Document 1:\nPassage 61\nThis passage covers synthetic topic number 61 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 62\nThis passage covers synthetic topic number 62 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 63\nThis passage covers synthetic topic number 63 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 64\nThis passage covers synthetic topic number 64 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 65\nThis passage covers synthetic topic number 65 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 66\nThis passage covers synthetic topic number 66 with enough detail for reasoning tasks.",
+        "input": "Question 87: Which passage mentions topic 61?",
+        "answers": [
+            "Synthetic answer 87: topic 61"
+        ],
+        "num_docs": 6,
+        "index": 87
+    },
+    {
+        "context": "Document 1:\nPassage 64\nThis passage covers synthetic topic number 64 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 65\nThis passage covers synthetic topic number 65 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 66\nThis passage covers synthetic topic number 66 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 67\nThis passage covers synthetic topic number 67 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 68\nThis passage covers synthetic topic number 68 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 69\nThis passage covers synthetic topic number 69 with enough detail for reasoning tasks.",
+        "input": "Question 88: Which passage mentions topic 64?",
+        "answers": [
+            "Synthetic answer 88: topic 64"
+        ],
+        "num_docs": 6,
+        "index": 88
+    },
+    {
+        "context": "Document 1:\nPassage 67\nThis passage covers synthetic topic number 67 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 68\nThis passage covers synthetic topic number 68 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 69\nThis passage covers synthetic topic number 69 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 70\nThis passage covers synthetic topic number 70 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 71\nThis passage covers synthetic topic number 71 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 72\nThis passage covers synthetic topic number 72 with enough detail for reasoning tasks.",
+        "input": "Question 89: Which passage mentions topic 67?",
+        "answers": [
+            "Synthetic answer 89: topic 67"
+        ],
+        "num_docs": 6,
+        "index": 89
+    },
+    {
+        "context": "Document 1:\nPassage 70\nThis passage covers synthetic topic number 70 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 71\nThis passage covers synthetic topic number 71 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 72\nThis passage covers synthetic topic number 72 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 73\nThis passage covers synthetic topic number 73 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 74\nThis passage covers synthetic topic number 74 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 75\nThis passage covers synthetic topic number 75 with enough detail for reasoning tasks.",
+        "input": "Question 90: Which passage mentions topic 70?",
+        "answers": [
+            "Synthetic answer 90: topic 70"
+        ],
+        "num_docs": 6,
+        "index": 90
+    },
+    {
+        "context": "Document 1:\nPassage 73\nThis passage covers synthetic topic number 73 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 74\nThis passage covers synthetic topic number 74 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 75\nThis passage covers synthetic topic number 75 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 76\nThis passage covers synthetic topic number 76 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 77\nThis passage covers synthetic topic number 77 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 78\nThis passage covers synthetic topic number 78 with enough detail for reasoning tasks.",
+        "input": "Question 91: Which passage mentions topic 73?",
+        "answers": [
+            "Synthetic answer 91: topic 73"
+        ],
+        "num_docs": 6,
+        "index": 91
+    },
+    {
+        "context": "Document 1:\nPassage 76\nThis passage covers synthetic topic number 76 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 77\nThis passage covers synthetic topic number 77 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 78\nThis passage covers synthetic topic number 78 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 79\nThis passage covers synthetic topic number 79 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 80\nThis passage covers synthetic topic number 80 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 81\nThis passage covers synthetic topic number 81 with enough detail for reasoning tasks.",
+        "input": "Question 92: Which passage mentions topic 76?",
+        "answers": [
+            "Synthetic answer 92: topic 76"
+        ],
+        "num_docs": 6,
+        "index": 92
+    },
+    {
+        "context": "Document 1:\nPassage 79\nThis passage covers synthetic topic number 79 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 80\nThis passage covers synthetic topic number 80 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 81\nThis passage covers synthetic topic number 81 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 82\nThis passage covers synthetic topic number 82 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 83\nThis passage covers synthetic topic number 83 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 84\nThis passage covers synthetic topic number 84 with enough detail for reasoning tasks.",
+        "input": "Question 93: Which passage mentions topic 79?",
+        "answers": [
+            "Synthetic answer 93: topic 79"
+        ],
+        "num_docs": 6,
+        "index": 93
+    },
+    {
+        "context": "Document 1:\nPassage 82\nThis passage covers synthetic topic number 82 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 83\nThis passage covers synthetic topic number 83 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 84\nThis passage covers synthetic topic number 84 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 85\nThis passage covers synthetic topic number 85 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 86\nThis passage covers synthetic topic number 86 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 87\nThis passage covers synthetic topic number 87 with enough detail for reasoning tasks.",
+        "input": "Question 94: Which passage mentions topic 82?",
+        "answers": [
+            "Synthetic answer 94: topic 82"
+        ],
+        "num_docs": 6,
+        "index": 94
+    },
+    {
+        "context": "Document 1:\nPassage 85\nThis passage covers synthetic topic number 85 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 86\nThis passage covers synthetic topic number 86 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 87\nThis passage covers synthetic topic number 87 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 88\nThis passage covers synthetic topic number 88 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 89\nThis passage covers synthetic topic number 89 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 90\nThis passage covers synthetic topic number 90 with enough detail for reasoning tasks.",
+        "input": "Question 95: Which passage mentions topic 85?",
+        "answers": [
+            "Synthetic answer 95: topic 85"
+        ],
+        "num_docs": 6,
+        "index": 95
+    },
+    {
+        "context": "Document 1:\nPassage 88\nThis passage covers synthetic topic number 88 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 89\nThis passage covers synthetic topic number 89 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 90\nThis passage covers synthetic topic number 90 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 91\nThis passage covers synthetic topic number 91 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 92\nThis passage covers synthetic topic number 92 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 93\nThis passage covers synthetic topic number 93 with enough detail for reasoning tasks.",
+        "input": "Question 96: Which passage mentions topic 88?",
+        "answers": [
+            "Synthetic answer 96: topic 88"
+        ],
+        "num_docs": 6,
+        "index": 96
+    },
+    {
+        "context": "Document 1:\nPassage 91\nThis passage covers synthetic topic number 91 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 92\nThis passage covers synthetic topic number 92 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 93\nThis passage covers synthetic topic number 93 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 94\nThis passage covers synthetic topic number 94 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 95\nThis passage covers synthetic topic number 95 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 96\nThis passage covers synthetic topic number 96 with enough detail for reasoning tasks.",
+        "input": "Question 97: Which passage mentions topic 91?",
+        "answers": [
+            "Synthetic answer 97: topic 91"
+        ],
+        "num_docs": 6,
+        "index": 97
+    },
+    {
+        "context": "Document 1:\nPassage 94\nThis passage covers synthetic topic number 94 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 95\nThis passage covers synthetic topic number 95 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 96\nThis passage covers synthetic topic number 96 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 97\nThis passage covers synthetic topic number 97 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 98\nThis passage covers synthetic topic number 98 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 99\nThis passage covers synthetic topic number 99 with enough detail for reasoning tasks.",
+        "input": "Question 98: Which passage mentions topic 94?",
+        "answers": [
+            "Synthetic answer 98: topic 94"
+        ],
+        "num_docs": 6,
+        "index": 98
+    },
+    {
+        "context": "Document 1:\nPassage 97\nThis passage covers synthetic topic number 97 with enough detail for reasoning tasks.\n\nDocument 2:\nPassage 98\nThis passage covers synthetic topic number 98 with enough detail for reasoning tasks.\n\nDocument 3:\nPassage 99\nThis passage covers synthetic topic number 99 with enough detail for reasoning tasks.\n\nDocument 4:\nPassage 100\nThis passage covers synthetic topic number 100 with enough detail for reasoning tasks.\n\nDocument 5:\nPassage 101\nThis passage covers synthetic topic number 101 with enough detail for reasoning tasks.\n\nDocument 6:\nPassage 102\nThis passage covers synthetic topic number 102 with enough detail for reasoning tasks.",
+        "input": "Question 99: Which passage mentions topic 97?",
+        "answers": [
+            "Synthetic answer 99: topic 97"
+        ],
+        "num_docs": 6,
+        "index": 99
+    }
+]
